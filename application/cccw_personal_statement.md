@@ -6,11 +6,11 @@
 
 The governance of complex societies demands both rigorous theoretical frameworks and
 sophisticated analytical tools. My research sits at precisely this intersection:
-trained as a political scientist and public administration scholar at Beijing Normal
+trained as a political scientist and public management scholar at Beijing Normal
 University, I have spent eight years studying how the Chinese state builds governance
 capacity through multi-actor coordination — and the past year learning, from the
 inside, how artificial intelligence reshapes the tools available for that inquiry.
-It is this combination — empirical grounding in Chinese governance and
+It is this combination — empirical grounding in public policy, social governance and
 production-level AI engineering practice — that I bring to the Postdoctoral
 Fellowship at the Centre on Contemporary China and the World.
 
