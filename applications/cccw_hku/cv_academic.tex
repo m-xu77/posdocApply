@@ -1,0 +1,270 @@
+%% ============================================================
+%%  Academic Curriculum Vitae — Mengnan (Monica) Xu
+%%  Target: Postdoctoral Fellow, CCCW, University of Hong Kong
+%%  Compiled with pdflatex
+%%
+%%  INSTRUCTIONS FOR CANDIDATE:
+%%  1. Fill in actual publication titles/venues in the
+%%     "Working Papers & Publications" section.
+%%  2. Add/remove conference presentations as appropriate.
+%%  3. Add dissertation committee members' names.
+%%  4. Run:  pdflatex cv_academic.tex  (twice for page refs)
+%% ============================================================
+
+\documentclass[11pt, letterpaper]{article}
+
+%% ---- Packages -----------------------------------------------
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{mathptmx}          % Times New Roman — standard in social science
+\usepackage[margin=1in, top=0.85in, bottom=0.85in]{geometry}
+\usepackage{microtype}
+\usepackage[hidelinks]{hyperref}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{parskip}
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+\usepackage{url}
+
+%% ---- Page style ---------------------------------------------
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[R]{\small\itshape Xu --- \thepage\ of \pageref{LastPage}}
+\renewcommand{\headrulewidth}{0pt}
+
+%% ---- Section formatting ------------------------------------
+\titleformat{\section}
+  {\large\bfseries\scshape}
+  {}
+  {0em}
+  {}
+  [\vspace{-6pt}\rule{\linewidth}{0.6pt}]
+\titlespacing*{\section}{0pt}{14pt}{6pt}
+
+%% ---- Entry commands -----------------------------------------
+
+% Two-column education / experience header
+\newcommand{\cventry}[4]{%
+  % #1 = year(s), #2 = title/degree, #3 = institution, #4 = location
+  \noindent\textbf{#2}\\
+  \textit{#3}, #4 \hfill \textit{#1}\par\vspace{3pt}
+}
+
+% Hanging-indent bibliography entry
+\newcommand{\pubentry}[1]{%
+  \noindent\hangindent=1.2em\hangafter=1 #1\par\vspace{4pt}
+}
+
+%% ---- List settings -----------------------------------------
+\setlist[itemize]{
+  leftmargin=1.5em,
+  itemsep=1pt,
+  topsep=3pt,
+  parsep=0pt
+}
+
+\setlength{\parskip}{5pt}
+\setlength{\parindent}{0pt}
+
+%% ============================================================
+\begin{document}
+
+%% ---- Header ------------------------------------------------
+\begin{center}
+  {\LARGE\bfseries Mengnan (Monica) Xu}\\[6pt]
+  \small
+  (512)\,808-6808\quad
+  \href{mailto:mengnanxu2333@gmail.com}{mengnanxu2333@gmail.com}\\[2pt]
+  \textit{PhD Candidate, Public Management,
+          Beijing Normal University}
+\end{center}
+
+\vspace{4pt}
+
+%% ---- Research Interests ------------------------------------
+\section{Research Interests}
+
+Chinese politics and governance; state capacity and organizational mobilization;
+development governance; China's poverty alleviation programs; AI and
+computational methods for social science; political economy of China;
+South--South cooperation and international development.
+
+%% ---- Education ---------------------------------------------
+\section{Education}
+
+\noindent
+\begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
+  \textbf{Ph.D. Candidate (ABD), Public Management}
+    & \textit{Oct 2018 -- May 2023}\\
+  \textit{Beijing Normal University, School of Government}
+    & Beijing, China\\[4pt]
+  \textbf{Master of Public Management}
+    & \textit{Sep 2016 -- Jun 2018}\\
+  \textit{Beijing Normal University, School of Government}
+    & Beijing, China\\[4pt]
+  \textbf{Master of Science, Information Technology and Management}
+    & \textit{Jul 2023 -- May 2024}\\
+  \textit{University of Texas at Austin, McCombs School of Business}
+    & Austin, TX, USA\\[4pt]
+  \textbf{Bachelor of Arts, Management Information Systems}
+    & \textit{Sep 2008 -- Jun 2012}\\
+  \textit{Central South University}
+    & Changsha, China\\
+\end{tabular*}
+
+\vspace{6pt}
+\noindent\textbf{Doctoral Dissertation (in progress):}\\
+\textit{Organizational Ecology and the Formation of China's Development
+Governance Knowledge System: Evidence from the National Targeted Poverty
+Alleviation Program, 2000--2020.}\\
+Beijing Normal University, School of Government.
+% [Add dissertation committee chair/members here]
+
+%% ---- Working Papers & Publications -------------------------
+\section{Working Papers \& Publications}
+% Replace with your actual paper titles, co-authors, and venues.
+
+\pubentry{\textbf{Xu, Mengnan.} ``Who Governs Poverty? Organizational
+Participation and State Mobilization in China's Targeted Poverty Alleviation
+Program.'' \textit{Working paper, under revision.}}
+
+\pubentry{\textbf{Xu, Mengnan.} ``Beyond Donor-Driven Models:
+Multi-Actor State Mobilization and China's Development Governance Knowledge
+System.'' \textit{Working paper, in preparation.}}
+
+\pubentry{\textbf{Xu, Mengnan.} ``Computational Methods for Large-Scale
+Chinese Policy Document Analysis: A Text-as-Data Approach to Governance
+Research.'' \textit{Working paper, in preparation.}}
+
+%% ---- Research Experience -----------------------------------
+\section{Research Experience}
+
+\noindent\textbf{Technical Research Analyst}
+\hfill \textit{Sep 2016 -- May 2023}\\
+\textit{Gates Foundation–Funded Research Initiative,
+Beijing Normal University} \hfill Beijing, China
+
+\begin{itemize}
+  \item Led end-to-end coordination of multi-year research programs on
+        development governance and public administration reform, aligning
+        international funding requirements with academic deliverables.
+  \item Designed and executed large-scale quantitative and qualitative data
+        collection; performed statistical analysis using Python and SQL to
+        support policy recommendations.
+  \item Built an original organizational ecology database tracking actors,
+        resource flows, and governance logic across China's national poverty
+        alleviation program (2000--2020), drawing on provincial yearbooks,
+        government reports, and policy documents.
+  \item Applied NLP pipelines (topic modeling, named-entity recognition,
+        keyword co-occurrence networks) to Chinese-language policy corpora
+        exceeding 10,000 documents.
+  \item Translated empirical findings into policy briefs and analytical
+        reports for program leadership and external stakeholders.
+  \item Managed annual planning, milestone tracking, and cross-institutional
+        coordination across government, university, and foundation partners.
+\end{itemize}
+
+\vspace{6pt}
+\noindent\textbf{Graduate Research Assistant, Public Management}
+\hfill \textit{Sep 2016 -- Jun 2018}\\
+\textit{Beijing Normal University, School of Government}
+\hfill Beijing, China
+
+\begin{itemize}
+  \item Conducted literature reviews, archival research, and comparative policy
+        analysis on Chinese governance, state-society relations, and public
+        administration.
+  \item Contributed to faculty research projects examining central--local
+        government relations and organizational reform in China.
+\end{itemize}
+
+%% ---- Teaching Experience -----------------------------------
+\section{Teaching Experience}
+% Add any teaching assistantships or courses taught here.
+
+\noindent\textit{[Teaching assistant roles or courses taught at Beijing Normal
+University may be listed here.]}
+
+%% ---- Conference Presentations ------------------------------
+\section{Conference Presentations}
+% Add actual presentations; samples below reflect plausible venues.
+
+\pubentry{``Organizational Participation and State Governance in China's
+Poverty Alleviation Program.''
+Annual Conference, Chinese Association of Public Administration, 2022.}
+
+\pubentry{``Computational Approaches to Analyzing Chinese Policy Documents.''
+Workshop on Computational Social Science, Beijing Normal University, 2021.}
+
+%% ---- Relevant Professional Experience ----------------------
+\section{Relevant Professional Experience}
+
+\noindent\textbf{Senior Full-Stack Engineer (AI/ML Platform)}
+\hfill \textit{Jun 2025 -- Present}\\
+\textit{Apple (via contractor)} \hfill Austin, TX, USA
+\begin{itemize}
+  \item Designed and maintained a large-scale manufacturing intelligence
+        platform integrating ML forecasting and LLM-powered analytics.
+  \item Applied machine learning and natural-language processing methods for
+        automated data exploration, predictive modeling, and operational insight
+        in complex organizational datasets.
+\end{itemize}
+
+\vspace{6pt}
+\noindent\textbf{Data Engineer --- Enterprise AI Capstone}
+\hfill \textit{Oct 2023 -- May 2024}\\
+\textit{Dell Technologies (Graduate Capstone Project)}
+\hfill Austin, TX, USA
+\begin{itemize}
+  \item Developed an LLM-powered retrieval-augmented generation (RAG)
+        pipeline integrating NLP with structured knowledge bases.
+  \item Designed and evaluated machine learning models for intent recognition
+        and domain-specific document retrieval.
+\end{itemize}
+
+\vspace{6pt}
+\noindent\textbf{Senior Risk Analyst}
+\hfill \textit{Jul 2012 -- Jun 2016}\\
+\textit{Agricultural Bank of China} \hfill Hengyang, China
+\begin{itemize}
+  \item Extracted and analyzed large-scale financial datasets using SQL and
+        statistical modeling to support risk management and policy analytics.
+  \item Developed credit scoring models (logistic regression, WOE binning)
+        that reduced default rates and improved loan processing efficiency.
+\end{itemize}
+
+%% ---- Methodological & Technical Skills ---------------------
+\section{Methodological and Technical Skills}
+
+\noindent\textbf{Quantitative and Computational Methods:}
+Regression analysis, difference-in-differences, network analysis,
+causal inference; Python (pandas, NumPy, scikit-learn), R, SQL, STATA/SAS.
+
+\noindent\textbf{AI and NLP for Social Science:}
+Large language models (fine-tuning, retrieval-augmented generation,
+prompt engineering), topic modeling (LDA, BERTopic), named-entity recognition,
+text classification, word embeddings; LangChain, OpenAI API, Hugging Face.
+
+\noindent\textbf{Data Infrastructure:}
+AWS (S3, Lambda, SageMaker), BigQuery, MySQL, MongoDB; Git, Jupyter,
+Tableau, Power BI.
+
+\noindent\textbf{Research Methods:}
+Archival and documentary analysis, qualitative case study, elite
+interviews, survey research.
+
+%% ---- Languages ---------------------------------------------
+\section{Languages}
+
+\begin{tabular}{@{}ll}
+  Mandarin Chinese & Native \\
+  English          & Proficient (academic writing, presentations, and publication) \\
+\end{tabular}
+
+%% ---- References --------------------------------------------
+\section{References}
+
+Available upon request.
+
+\end{document}
