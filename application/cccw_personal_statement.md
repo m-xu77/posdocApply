@@ -29,7 +29,9 @@ alters labor market participation, builds household assets, and — most
 distinctively — reduces households' exposure to downward risk over a multi-year
 horizon. This multi-dimensional analysis of a CCP flagship governance initiative
 provides granular, causally identified evidence on how state-orchestrated,
-large-scale programs translate into household-level welfare outcomes.
+large-scale programs translate into household-level welfare outcomes. The
+dissertation has passed blind external review and is scheduled for oral
+defense in May 2026.
 
 Alongside the dissertation, I have developed a parallel research strand —
 currently under revision as a working paper — that examines the organizational
