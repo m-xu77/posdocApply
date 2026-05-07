@@ -4,112 +4,101 @@
 
 ---
 
-The governance of complex societies demands both rigorous theoretical frameworks and
-sophisticated analytical tools. My research sits at precisely this intersection:
-trained as a political scientist and public management scholar at Beijing Normal
-University, I have spent eight years studying how the Chinese state builds governance
-capacity through multi-actor coordination — and the past year learning, from the
-inside, how artificial intelligence reshapes the tools available for that inquiry.
-It is this combination — empirical grounding in public policy, social governance and
-production-level AI engineering practice — that I bring to the Postdoctoral
-Fellowship at the Centre on Contemporary China and the World.
+My research occupies a specific intersection: I am a political scientist and public
+management scholar trained at Beijing Normal University, with eight years of
+empirical work on Chinese governance — and twelve months of production-grade AI
+engineering experience at Apple. These are not separate tracks. The computational
+methods I built and deployed industrially are the same tools I now bring back to
+political science, where they address questions that conventional methods cannot
+reach. It is this combination that I bring to the Postdoctoral Fellowship at the
+Centre on Contemporary China and the World.
 
-My doctoral dissertation, *The Impact of Targeted Poverty Alleviation Policies
-on Long-Term Development and Vulnerability to Poverty Relapse Among Rural
-Households: Evidence from a Quasi-Natural Experiment Using CFPS Panel Data*
-(Beijing Normal University, 2018–2026), conducts a rigorous causal evaluation
-of China's flagship anti-poverty program. Drawing on six waves of CFPS household
-panel data spanning 2010 to 2022, and applying staggered difference-in-differences
-designs alongside a three-stage least squares vulnerability estimation procedure,
-I identify the policy's effects not only on household income trajectories but —
-crucially — on households' prospective vulnerability to poverty relapse. The
-central empirical contribution is to demonstrate that targeted poverty alleviation
-operates through multiple channels simultaneously: it generates income gains,
-alters labor market participation, builds household assets, and — most
-distinctively — reduces households' exposure to downward risk over a multi-year
-horizon. This multi-dimensional analysis of a CCP flagship governance initiative
-provides granular, causally identified evidence on how state-orchestrated,
-large-scale programs translate into household-level welfare outcomes. The
-dissertation has passed blind external review and is scheduled for oral
-defense in May 2026.
+My doctoral dissertation, *The Impact of Targeted Poverty Alleviation Policies on
+Long-Term Development and Vulnerability to Poverty Relapse Among Rural Households:
+Evidence from a Quasi-Natural Experiment Using CFPS Panel Data* (Beijing Normal
+University, defense scheduled May 2026; passed blind external review), conducts a
+rigorous causal evaluation of China's flagship anti-poverty program. Drawing on six
+waves of CFPS household panel data spanning 2010 to 2022, I apply staggered
+difference-in-differences designs and a three-stage least squares vulnerability
+estimation procedure to identify policy effects on household income trajectories
+and — crucially — on prospective vulnerability to poverty relapse. The central
+contribution is to show that targeted poverty alleviation operates through multiple
+channels simultaneously: income gains, labor market restructuring, asset
+accumulation, and a measurable reduction in households' exposure to downward risk
+over a multi-year horizon. This is among the first studies to apply forward-looking
+vulnerability measurement to a major CCP governance initiative using a causal
+identification strategy robust to staggered treatment timing.
 
-Alongside the dissertation, I have developed a parallel research strand —
-currently under revision as a working paper — that examines the organizational
-ecology of China's poverty alleviation governance and the formation of what I
-call a "development governance knowledge system": a distinctive model of
-state-led multi-actor coordination, integrating government agencies, universities,
-enterprises, financial institutions, and social organizations into a coherent
-governance architecture with deep grassroots embeddedness, that departs
-fundamentally from the NGO-driven, donor-dependent frameworks dominant in
-mainstream international development research. A second working paper extends
-this framework computationally, developing text-as-data methods for large-scale
-analysis of Chinese governance documents.
+Alongside the dissertation, I have developed a parallel conceptual strand,
+currently under revision for submission to *Journal of Chinese Governance*, that
+examines the organizational ecology of China's poverty alleviation governance and
+proposes the concept of a "development governance knowledge system": a distinctive
+model of state-led multi-actor coordination — integrating government agencies,
+universities, enterprises, and financial institutions — that departs structurally
+from the NGO-driven, donor-dependent frameworks dominant in international
+development research. A second working paper, in preparation for *China Quarterly*,
+extends this framework through text-as-data methods, developing a replicable
+pipeline for computational analysis of Chinese governance documents at scale.
 
-Three publications further reflect this research program. My first-authored paper,
-"Poor and Lazy: Understanding Middle-class Perceptions of Poverty in China"
-(*Journal of Contemporary China*, 2022, SSCI Q1), examines the ideational
-environment in which poverty governance operates, showing how middle-class
-stigmatization of the poor shapes the political conditions that make
-state-organized redistribution institutionally necessary. Additional collaborative
-work on tobacco control policy evaluation in China (BMJ Open, 2019; Health, 2019)
-further developed my competency in quantitative policy analysis using longitudinal
-administrative data.
+My first-authored paper, "Poor and Lazy: Understanding Middle-class Perceptions of
+Poverty in China" (*Journal of Contemporary China*, 2022, SSCI Q1), provides the
+ideational complement to this governance analysis: it shows how middle-class
+stigmatization of the poor as morally deficient creates the political conditions
+that make state-organized, non-market-mediated redistribution institutionally
+necessary and distinctive. I also contributed to collaborative work on tobacco
+control policy evaluation using longitudinal administrative data (BMJ Open, 2019;
+Health, 2019).
 
-Yet the household-level causal analysis and the organizational ecology work share
-a common limitation: the first reveals *what* the policy achieves, the second
-maps *who* implements it — but connecting the two at national scale, and tracing
-how variation in actor participation structures produces the heterogeneous
-household-level outcomes my data reveals, requires processing volumes of policy
-documents, government reports, and organizational records that conventional methods
-cannot handle. I made a deliberate choice: to acquire, from the inside, the
-computational infrastructure to do this work properly.
+The household-level causal analysis and the organizational ecology work share a
+productive tension. The dissertation establishes *what* the policy achieves at the
+household level. The organizational ecology work maps *who* implements it and
+through which institutional channels. What neither can yet do — at the scale and
+resolution required — is connect the two: to trace how variation in actor
+participation structures, resource allocation logic, and implementation intensity
+across thousands of counties produces the heterogeneous outcomes the regression
+analysis reveals. This requires processing hundreds of thousands of policy
+documents and organizational records. I spent twelve months at Apple's Intelligence
+platform acquiring, from the inside, exactly this infrastructure.
 
-Between June 2025 and March 2026, I worked as a software engineer on Apple's
-Intelligence platform. This was methodological training at the frontier. Working on
-production-scale natural language processing pipelines, retrieval-augmented
-generation architectures, and large-scale knowledge integration systems gave me
-an engineer's understanding of how LLMs process, organize, and extract structured
-information from massive document corpora. Crucially, I learned not only how to
-deploy these tools as a researcher, but how they work — and therefore where they
-are reliable and where they introduce systematic distortions that require
-scholarly correction. Since April 2026, I have continued building this technical
-foundation at AOI, designing full-pipeline automated data collection and analysis
-systems, deepening my competence in large-scale data ingestion, cleaning, and
-multi-dimensional statistical analysis.
+Working on production-scale NLP pipelines, retrieval-augmented generation
+architectures, and large-scale knowledge integration systems gave me an engineer's
+understanding of how LLMs extract structured information from document corpora —
+and, equally important, where they introduce systematic distortions that require
+scholarly correction. Moving between research questions and engineering
+implementation is not a detour; it is how I develop methods that are both
+technically rigorous and analytically appropriate for governance research. Since
+April 2026, I have continued this work at AOI, designing full-pipeline data
+collection and analysis systems for large-scale structured data environments.
 
-The research agenda I bring to CCCW directly connects these three strands.
-I propose two connected projects. The first uses LLM-powered document analysis
-to construct a comprehensive organizational ecology database of China's poverty
-alleviation governance, enabling systematic analysis of actor participation
-structures, cross-sector coordination logic, and the spatial and temporal
-variation in implementation intensity that my household-level regressions reveal
-but cannot yet explain. Connecting causally identified welfare outcomes to the
-organizational architecture that generates them contributes to CCCW's agenda on
-Chinese political leadership and governance, while demonstrating a replicable
-methodology for AI-assisted analysis of party-state governance at scale.
+The research agenda I bring to CCCW follows directly. My primary proposed project
+uses LLM-powered document analysis to construct a comprehensive organizational
+ecology database of China's poverty alleviation implementation — tracking actor
+participation, coordination logic, and resource flows across provinces and decades
+— and uses this database to explain the heterogeneous household-level outcomes
+my dissertation documents. This project speaks directly to Professor Li Cheng's
+program of research on Chinese political leadership and governance capacity: where
+his work on elite politics and the *Chinese Politics in the Xi Jinping Era* examines
+the leadership architecture of the party-state, my project examines how that
+architecture translates into grassroots implementation outcomes — a micro-level
+complement to CCCW's macro-level leadership research. The JCC paper I co-authored
+on middle-class perceptions of poverty also connects directly to Professor Li's
+work on the Chinese middle class and its political consequences.
 
-The second project extends this framework internationally. China's development
-governance knowledge system — its distinctive combination of state capacity,
-organizational mobilization, and grassroots embeddedness — is not contained
-within China's borders. Through Belt and Road Initiative channels and
-South-South cooperation frameworks, these governance models are increasingly
-present in ASEAN countries and across the Global South. Tracing the institutional
-diffusion of China's development governance knowledge, and analyzing how it
-interacts with existing local governance structures in recipient countries,
-bridges CCCW's priorities on Chinese governance, AI methods for social science,
-and regional studies of ASEAN.
+A second, smaller project examines the diffusion of China's poverty governance
+model into ASEAN contexts through South-South cooperation channels. I have
+preliminary access to documentary evidence from several BRI infrastructure
+governance cases and am in early discussions with a collaborator at Sun Yat-sen
+University who works on Chinese development engagement in Southeast Asia. The
+scope is deliberately bounded: two to three country cases, analyzed through the
+same organizational ecology framework developed in Project One, with the aim of
+producing one comparative paper within the fellowship period.
 
-CCCW represents an ideal environment for this work. The Centre's explicit
-investment in AI methods for social science research, its commitment to rigorous
-interdisciplinary scholarship on contemporary China, and its position at the
-nexus of mainland Chinese and international academic networks make it uniquely
-suited to support the kind of methodological and thematic bridge-building I aim
-to do. Hong Kong's distinctive intellectual ecology — embedded in yet
-analytically distanced from the mainland — provides precisely the institutional
-vantage point from which to study Chinese governance with both depth and
-critical rigor.
+CCCW is the right institutional home for this work. Professor Li Cheng's leadership
+program, the Centre's explicit investment in AI methods for social science, and Hong
+Kong's position as an analytical vantage point on mainland governance — embedded
+enough to access the documentary record, distanced enough to interrogate it —
+together provide an environment that no other institution currently offers. I look
+forward to contributing to that community.
 
-I look forward to the possibility of contributing to and learning from the
-Centre's scholarly community.
-
-
+---
+*~730 words*
