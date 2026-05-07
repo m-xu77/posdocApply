@@ -6,7 +6,7 @@
 
 My research occupies a specific intersection: I am a political scientist and public
 management scholar trained at Beijing Normal University, with eight years of
-empirical work on Chinese governance — and twelve months of production-grade AI
+empirical work on Chinese governance — and a year of production-grade AI
 engineering experience at Apple. These are not separate tracks. The computational
 methods I built and deployed industrially are the same tools I now bring back to
 political science, where they address questions that conventional methods cannot
@@ -57,7 +57,7 @@ resolution required — is connect the two: to trace how variation in actor
 participation structures, resource allocation logic, and implementation intensity
 across thousands of counties produces the heterogeneous outcomes the regression
 analysis reveals. This requires processing hundreds of thousands of policy
-documents and organizational records. I spent twelve months at Apple's Intelligence
+documents and organizational records. I spent a year at Apple's Intelligence
 platform building exactly this infrastructure.
 
 Working on production-scale NLP pipelines, retrieval-augmented generation
