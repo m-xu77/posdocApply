@@ -16,7 +16,7 @@ Dear Members of the Search Committee,
 
 I write in strong support of Dr. Mengnan Xu's application for the Postdoctoral Fellow
 position at the Centre on Contemporary China and the World. I have supervised Ms. Xu
-since 2016 — through her Master of Public Management and into her doctoral research —
+since 2016 — through her Master of Public Administration and into her doctoral research —
 and I am in an unusually well-placed position to assess both the quality of her
 scholarship and the depth of her commitment to the study of Chinese governance.
 
