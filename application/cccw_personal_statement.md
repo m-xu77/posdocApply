@@ -99,6 +99,9 @@ program, the Centre's explicit investment in AI methods for social science, and 
 Kong's position as an analytical vantage point on mainland governance — embedded
 enough to access the documentary record, distanced enough to interrogate it —
 together provide an environment uniquely positioned to support the kind of work
-I have described above.
+I have described above. My connection to HKU is not new: I was selected for the
+University of Hong Kong Young Scholars Forum in 2018, an experience that first
+oriented me toward Hong Kong as an intellectual home for China governance research.
+I look forward to building on that connection as a member of the CCCW community.
 
 ---
