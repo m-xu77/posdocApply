@@ -6,8 +6,7 @@
 
 My research occupies a specific intersection: I am a political scientist and public
 management scholar trained at Beijing Normal University, with eight years of
-empirical work on Chinese governance — and almost a year of production-grade AI
-engineering experience at Apple. These are not separate tracks. The computational
+empirical work on Chinese governance — and production-grade AI engineering experience at Apple. These are not separate tracks. The computational
 methods I built and deployed industrially are the same tools I now bring back to
 political science, where they address questions that conventional methods cannot
 reach. It is this combination that I bring to the Postdoctoral Fellowship at the
@@ -25,9 +24,11 @@ and — crucially — on prospective vulnerability to poverty relapse. The centr
 contribution is to show that targeted poverty alleviation operates through multiple
 channels simultaneously: income gains, labor market restructuring, asset
 accumulation, and a measurable reduction in households' exposure to downward risk
-over a multi-year horizon. This is among the first studies to apply forward-looking vulnerability measurement to
-a major CCP governance initiative using a causal identification strategy robust
-to staggered treatment timing.
+over a multi-year horizon. Methodologically, the study combines forward-looking
+vulnerability measurement with a causal identification strategy robust to
+staggered treatment timing — an approach that allows the analysis to move beyond
+program take-up effects to ask whether policy exposure reduces households'
+prospective exposure to downward risk.
 
 Alongside the dissertation, I have developed a parallel conceptual strand,
 currently in preparation, that examines the organizational ecology of China's
