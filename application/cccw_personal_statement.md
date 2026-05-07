@@ -31,7 +31,19 @@ horizon. This multi-dimensional analysis of a CCP flagship governance initiative
 provides granular, causally identified evidence on how state-orchestrated,
 large-scale programs translate into household-level welfare outcomes.
 
-Two publications directly reflect this research program. My first-authored paper,
+Alongside the dissertation, I have developed a parallel research strand —
+currently under revision as a working paper — that examines the organizational
+ecology of China's poverty alleviation governance and the formation of what I
+call a "development governance knowledge system": a distinctive model of
+state-led multi-actor coordination, integrating government agencies, universities,
+enterprises, financial institutions, and social organizations into a coherent
+governance architecture with deep grassroots embeddedness, that departs
+fundamentally from the NGO-driven, donor-dependent frameworks dominant in
+mainstream international development research. A second working paper extends
+this framework computationally, developing text-as-data methods for large-scale
+analysis of Chinese governance documents.
+
+Three publications further reflect this research program. My first-authored paper,
 "Poor and Lazy: Understanding Middle-class Perceptions of Poverty in China"
 (*Journal of Contemporary China*, 2022, SSCI Q1), examines the ideational
 environment in which poverty governance operates, showing how middle-class
@@ -41,21 +53,17 @@ work on tobacco control policy evaluation in China (BMJ Open, 2019; Health, 2019
 further developed my competency in quantitative policy analysis using longitudinal
 administrative data.
 
-Yet the household-level analysis naturally raises questions that CFPS data alone
-cannot answer: which governance actors, in which institutional configurations,
-produce the welfare gains I document? How do variation in local implementation
-intensity, actor participation structures, and resource allocation logic translate
-into the heterogeneous household-level outcomes the data reveals? Systematically
-answering these questions at national scale — tracing the organizational
-architecture of policy implementation across thousands of counties over two
-decades — requires processing volumes of policy documents, government reports,
-and organizational records that conventional methods cannot handle. I made a
-deliberate choice: to acquire, from the inside, the computational infrastructure
-to do this work properly.
+Yet the household-level causal analysis and the organizational ecology work share
+a common limitation: the first reveals *what* the policy achieves, the second
+maps *who* implements it — but connecting the two at national scale, and tracing
+how variation in actor participation structures produces the heterogeneous
+household-level outcomes my data reveals, requires processing volumes of policy
+documents, government reports, and organizational records that conventional methods
+cannot handle. I made a deliberate choice: to acquire, from the inside, the
+computational infrastructure to do this work properly.
 
 Between June 2025 and March 2026, I worked as a software engineer on Apple's
-Intelligence platform — the system underlying Apple's AI integration across its
-product ecosystem. This was methodological training at the frontier. Working on
+Intelligence platform. This was methodological training at the frontier. Working on
 production-scale natural language processing pipelines, retrieval-augmented
 generation architectures, and large-scale knowledge integration systems gave me
 an engineer's understanding of how LLMs process, organize, and extract structured
@@ -67,18 +75,16 @@ foundation at AOI, designing full-pipeline automated data collection and analysi
 systems, deepening my competence in large-scale data ingestion, cleaning, and
 multi-dimensional statistical analysis.
 
-The research agenda I bring to CCCW directly applies these capabilities to the
-governance questions I have spent eight years developing. I propose two connected
-projects. The first extends my dissertation's causal findings into the governance
-mechanisms that produce them: using LLM-powered document analysis to construct
-a comprehensive organizational ecology database of China's poverty alleviation
-implementation, enabling systematic analysis of actor participation structures,
-cross-sector coordination logic, and the spatial and temporal variation in
-implementation intensity that my household-level regressions reveal but cannot
-explain. Connecting causally identified welfare outcomes to the organizational
-architecture that generates them contributes to CCCW's agenda on Chinese
-political leadership and governance, while demonstrating a replicable methodology
-for AI-assisted analysis of party-state governance at scale.
+The research agenda I bring to CCCW directly connects these three strands.
+I propose two connected projects. The first uses LLM-powered document analysis
+to construct a comprehensive organizational ecology database of China's poverty
+alleviation governance, enabling systematic analysis of actor participation
+structures, cross-sector coordination logic, and the spatial and temporal
+variation in implementation intensity that my household-level regressions reveal
+but cannot yet explain. Connecting causally identified welfare outcomes to the
+organizational architecture that generates them contributes to CCCW's agenda on
+Chinese political leadership and governance, while demonstrating a replicable
+methodology for AI-assisted analysis of party-state governance at scale.
 
 The second project extends this framework internationally. China's development
 governance knowledge system — its distinctive combination of state capacity,
