@@ -84,14 +84,16 @@ complement to CCCW's macro-level leadership research. The JCC paper I co-authore
 on middle-class perceptions of poverty also connects directly to Professor Li's
 work on the Chinese middle class and its political consequences.
 
-A second, smaller project examines the diffusion of China's poverty governance
-model into ASEAN contexts through South-South cooperation channels. I have
-preliminary access to documentary evidence from several BRI infrastructure
-governance cases and am in early discussions with a collaborator at Sun Yat-sen
-University who works on Chinese development engagement in Southeast Asia. The
-scope is deliberately bounded: two to three country cases, analyzed through the
-same organizational ecology framework developed in Project One, with the aim of
-producing one comparative paper within the fellowship period.
+A second, more exploratory project examines whether and how China's development
+governance model — the organizational ecology framework constructed in Project One
+— travels into ASEAN contexts through South-South cooperation and BRI channels.
+The scope is deliberately bounded: the goal within the fellowship period is not a
+fully comparative study but a conceptual mapping of the institutional mechanisms
+through which Chinese governance knowledge is transmitted internationally, drawing
+on publicly available policy documents and CCCW's existing regional research
+network. This positions the project as groundwork for future comparative research
+rather than a standalone deliverable, and keeps the primary commitment where the
+evidence base is strongest: on Project One.
 
 CCCW is the right institutional home for this work. Professor Li Cheng's leadership
 program, the Centre's explicit investment in AI methods for social science, and Hong
