@@ -25,9 +25,9 @@ and — crucially — on prospective vulnerability to poverty relapse. The centr
 contribution is to show that targeted poverty alleviation operates through multiple
 channels simultaneously: income gains, labor market restructuring, asset
 accumulation, and a measurable reduction in households' exposure to downward risk
-over a multi-year horizon. This is among the first studies to apply forward-looking
-vulnerability measurement to a major CCP governance initiative using a causal
-identification strategy robust to staggered treatment timing.
+over a multi-year horizon. This is the first study to apply forward-looking vulnerability measurement to
+a major CCP governance initiative using a causal identification strategy robust
+to staggered treatment timing.
 
 Alongside the dissertation, I have developed a parallel conceptual strand,
 currently under revision for submission to *Journal of Chinese Governance*, that
@@ -50,7 +50,7 @@ control policy evaluation using longitudinal administrative data (BMJ Open, 2019
 Health, 2019).
 
 The household-level causal analysis and the organizational ecology work share a
-productive tension. The dissertation establishes *what* the policy achieves at the
+methodological gap. The dissertation establishes *what* the policy achieves at the
 household level. The organizational ecology work maps *who* implements it and
 through which institutional channels. What neither can yet do — at the scale and
 resolution required — is connect the two: to trace how variation in actor
@@ -58,7 +58,7 @@ participation structures, resource allocation logic, and implementation intensit
 across thousands of counties produces the heterogeneous outcomes the regression
 analysis reveals. This requires processing hundreds of thousands of policy
 documents and organizational records. I spent twelve months at Apple's Intelligence
-platform acquiring, from the inside, exactly this infrastructure.
+platform building exactly this infrastructure.
 
 Working on production-scale NLP pipelines, retrieval-augmented generation
 architectures, and large-scale knowledge integration systems gave me an engineer's
@@ -80,9 +80,8 @@ program of research on Chinese political leadership and governance capacity: whe
 his work on elite politics and the *Chinese Politics in the Xi Jinping Era* examines
 the leadership architecture of the party-state, my project examines how that
 architecture translates into grassroots implementation outcomes — a micro-level
-complement to CCCW's macro-level leadership research. The JCC paper I co-authored
-on middle-class perceptions of poverty also connects directly to Professor Li's
-work on the Chinese middle class and its political consequences.
+complement to CCCW's macro-level leadership research. My JCC paper on middle-class perceptions of poverty also connects directly to
+Professor Li's work on the Chinese middle class and its political consequences.
 
 A second, more exploratory project examines whether and how China's development
 governance model — the organizational ecology framework constructed in Project One
@@ -99,8 +98,7 @@ CCCW is the right institutional home for this work. Professor Li Cheng's leaders
 program, the Centre's explicit investment in AI methods for social science, and Hong
 Kong's position as an analytical vantage point on mainland governance — embedded
 enough to access the documentary record, distanced enough to interrogate it —
-together provide an environment that no other institution currently offers. I look
-forward to contributing to that community.
+together provide an environment uniquely positioned to support the kind of work
+I have described above.
 
 ---
-*~730 words*
