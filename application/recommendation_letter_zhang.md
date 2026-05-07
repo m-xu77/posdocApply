@@ -1,89 +1,96 @@
-# Reference Letter — CCCW Postdoctoral Fellowship (Ref. 535079)
-# Recommender: Professor Xiulan Zhang, Beijing Normal University
-
----
-
-Professor Xiulan Zhang
-Professor of Social Policy and Public Administration
+Xiulan Zhang, Ph.D.
+Professor Emeritus, Founding Dean
 School of Social Development and Public Policy
 Beijing Normal University
-Beijing 100875, China
-xiulanzhang@bnu.edu.cn
+19 Xinjiekouwai Street, Beijing 100875, China
+Tel: 86-10-58801512 | 86-13910959315
+Email: zhang99@bnu.edu.cn
 
-[Date]
+May 2026
 
 Dear Members of the Search Committee,
 
-I write in strong support of Dr. Mengnan Xu's application for the Postdoctoral Fellow
-position at the Centre on Contemporary China and the World. I have supervised Ms. Xu
-since 2016 — through her Master of Public Administration and into her doctoral research —
-and I am in an unusually well-placed position to assess both the quality of her
-scholarship and the depth of her commitment to the study of Chinese governance.
+It is my great pleasure to recommend Mengnan Xu for the Postdoctoral Fellowship at
+the Centre on Contemporary China and the World. I have served as Mengnan's academic
+advisor since she enrolled in the Master of Public Management program at Beijing
+Normal University in 2016 — a supervisory relationship now spanning nearly a decade
+that has taken her through her master's research, her doctoral dissertation, and two
+major collaborative projects I have led. Among the many Master's and PhD students I
+have supervised over more than thirty years, Mengnan is genuinely distinctive. I
+recommend her without reservation.
 
-Ms. Xu's doctoral dissertation examines the impact of China's Targeted Poverty
-Alleviation program on long-term household development and vulnerability to poverty
-relapse, using seven waves of CFPS panel data spanning 2010 to 2022. The
-methodological design is rigorous: she applies staggered difference-in-differences
-estimation and a three-stage least squares vulnerability procedure to separate program
-effects from selection and to quantify prospective downward risk — not merely whether
-households escaped poverty, but whether policy exposure reduced their exposure to
-future poverty. The dissertation passed blind external review and is scheduled for
-oral defense in May 2026. It represents, in my assessment, a serious contribution to
-the causal evaluation of large-scale state welfare programs in China.
+Mengnan completed her three-year Master's program in two years, with an outstanding
+4.0 GPA and a thesis of publication quality. On the strength of that performance, I
+invited her to continue in the PhD program as my doctoral advisee — a decision I do
+not make routinely. In addition to a 3.7 GPA for her required doctoral coursework,
+she developed serious programming skills in SAS and Python during this period. Her
+doctoral dissertation examines the impact of China's Targeted Poverty Alleviation
+program on long-term household development and vulnerability to poverty relapse,
+using seven waves of CFPS panel data spanning 2010 to 2022. The methodological
+design is rigorous: she applies staggered difference-in-differences estimation and a
+three-stage least squares vulnerability procedure that asks not merely whether
+households escaped poverty, but whether policy exposure reduced their prospective
+exposure to downward risk. The dissertation passed blind external review and is
+scheduled for oral defense in May 2026. It is, in my judgment, a substantive
+contribution to the causal evaluation of large-scale Chinese welfare programs.
 
-Alongside the dissertation, Ms. Xu has worked closely with me on two collaborative
-research projects that address the organizational architecture through which China's
-poverty alleviation governance operates. Our joint work proposes the concept of a
-"development governance knowledge system" — a model of state-led multi-actor
-coordination integrating government agencies, enterprises, universities, and financial
-institutions — that departs structurally from the NGO-centered frameworks common in
-international development research. A second working paper develops a replicable
-computational pipeline for analyzing Chinese governance documents at scale. These
-projects draw directly on original data infrastructure that Ms. Xu has constructed
-under my supervision: a multi-actor coordination database documenting government,
-enterprise, and social organization participation in poverty alleviation from 2010 to
-2023, and a social organization database covering over 2,000 organizations with
-approximately 26 months of longitudinal data on funding flows and project activity.
-These datasets did not exist in the field before this work; their construction
-required sustained initiative, methodological judgment, and the ability to integrate
-heterogeneous sources across a decade of policy implementation. Ms. Xu designed and
+Beyond the dissertation, Mengnan has been central to my research program. The Gates
+Foundation China tobacco control initiative I chaired — a $5.5 million project
+involving the National Health Commission, Ministry of Finance, China Taxation
+Administration, State Council Research and Development Center, local health
+departments, non-profit organizations, and academic communities — relied on her for
+data platform construction and cross-institutional coordination. She is the kind of
+researcher who sees what needs doing before being asked. She identified the need for
+two additional components and built them independently: the China Tobacco Industry
+Watch database and the China National Social Organization Database. We have
+co-authored papers arising from this work, including a publication in BMJ Open (Q1).
+Under my supervision, she has since extended these capabilities to construct an
+original multi-actor coordination database documenting government, enterprise, and
+social organization participation in China's poverty alleviation governance from 2010
+to 2023, and a social organization database covering over 2,000 organizations with
+over two years of longitudinal data on funding flows and project activity. These
+datasets did not exist in the field before this work. Their construction required
+sustained initiative, methodological judgment, and the ability to synthesize
+heterogeneous sources across a decade of policy implementation. Mengnan designed and
 led this work independently.
 
-Ms. Xu's computational capabilities are a genuine asset. During her earlier
-appointment on a Gates Foundation–funded research program at Beijing Normal
-University, she applied natural language processing pipelines — including topic
-modeling and named-entity recognition — to Chinese-language policy corpora exceeding
-10,000 documents. She subsequently spent nearly a year as a software engineer on
-Apple's Intelligence platform, where she worked on production-scale NLP pipelines and
-retrieval-augmented generation architectures. This experience is not incidental to her
-research profile. It means she brings to social science questions an engineer's
-understanding of how large language models process and structure documentary evidence
-— and, critically, where they introduce systematic errors that require scholarly
-correction. At a moment when AI methods are becoming central to governance research,
-this combination of domain expertise and technical capability is rare among scholars
-at her career stage.
+Mengnan's computational capabilities represent a genuine and rare asset. On the
+tobacco control project, she applied natural language processing pipelines —
+including topic modeling, named-entity recognition, and keyword co-occurrence
+networks — to Chinese-language policy corpora exceeding 10,000 documents. She
+subsequently spent nearly a year as a software engineer on Apple's Intelligence
+platform, building production-scale NLP pipelines and retrieval-augmented generation
+architectures. I want to be direct about what this means for her research profile:
+she is not a social scientist who has read about large language models. She is an
+engineer who has deployed them at production scale, and who understands from the
+inside where they introduce systematic distortions that require scholarly correction.
+At a moment when AI methods are becoming central to governance research, this
+combination of domain expertise and engineering fluency is, in my experience,
+genuinely unusual among researchers at her career stage.
 
-CCCW's dual focus on Chinese political leadership and governance and on AI methods for
-social science aligns directly with the research agenda Ms. Xu has developed. The
-organizational ecology database she has built provides the empirical foundation for
-precisely the kind of sub-national governance analysis that complements macro-level
-leadership research. Her first-authored publication in the *Journal of Contemporary
-China* (2022, SSCI Q1) demonstrates her capacity to produce independent,
-peer-reviewed research on Chinese politics and society. She also has the linguistic
-fluency — native Mandarin, proficient academic English — and the collaborative
-experience, having worked across government, university, and foundation settings, to
-contribute effectively to CCCW's research environment.
+CCCW's focus on Chinese political leadership, governance capacity, and AI methods for
+social science aligns directly with what Mengnan has spent years building toward. The
+organizational ecology databases she has constructed provide the empirical foundation
+for precisely the kind of sub-national governance analysis that can complement the
+Centre's macro-level leadership research. Her first-authored publication in the
+Journal of Contemporary China (2022, SSCI Q1) demonstrates her capacity for
+independent, peer-reviewed scholarship on Chinese politics and society. Beyond her
+scholarly qualities, I want to say something about Mengnan as a person. In working
+with her over these years, I have found her to be efficient, self-directed, and
+genuinely caring toward colleagues. She is warm, confident, optimistic, and
+intellectually ambitious — qualities that made her an exceptional member of my
+research team and that I believe will make her a valued and productive colleague
+within the CCCW community.
 
-I recommend Ms. Xu without reservation. The quality of her dissertation, the
-originality of the databases she has constructed, and the methodological range she
-brings to questions of Chinese governance make her, in my view, an exceptionally
-strong candidate for this fellowship.
+I recommend Mengnan Xu to your fellowship with full confidence. She has the technical
+capability, scholarly judgment, and personal qualities to make a strong contribution
+to the Centre's research program. Please do not hesitate to contact me if I can
+provide any further information.
 
 Sincerely,
 
-Xiulan Zhang
-Professor of Social Policy and Public Administration
-School of Social Development and Public Policy
-Beijing Normal University
-Tel: [+86-10-XXXXXXXX]
-Email: xiulanzhang@bnu.edu.cn
+Xiulan Zhang, Ph.D.
+Professor Emeritus, Founding Dean
+School of Social Development and Public Policy, Beijing Normal University
+Independent non-executive director, Tencent Holdings Ltd
+zhang99@bnu.edu.cn | 86-13910959315
