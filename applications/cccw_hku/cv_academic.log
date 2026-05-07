@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.3.22)  7 MAY 2026 10:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.3.22)  7 MAY 2026 10:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -474,7 +474,7 @@ Here is how much of TeX's memory you used:
 </usr/local/texlive/2026/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/lo
 cal/texlive/2026/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texliv
 e/2026/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on cv_academic.pdf (3 pages, 62752 bytes).
+Output written on cv_academic.pdf (3 pages, 62757 bytes).
 PDF statistics:
  85 PDF objects out of 1000 (max. 8388607)
  73 compressed objects within 1 object stream
