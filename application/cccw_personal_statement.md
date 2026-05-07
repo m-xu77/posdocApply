@@ -6,7 +6,7 @@
 
 My research occupies a specific intersection: I am a political scientist and public
 management scholar trained at Beijing Normal University, with eight years of
-empirical work on Chinese governance — and a year of production-grade AI
+empirical work on Chinese governance — and almost a year of production-grade AI
 engineering experience at Apple. These are not separate tracks. The computational
 methods I built and deployed industrially are the same tools I now bring back to
 political science, where they address questions that conventional methods cannot
@@ -25,20 +25,35 @@ and — crucially — on prospective vulnerability to poverty relapse. The centr
 contribution is to show that targeted poverty alleviation operates through multiple
 channels simultaneously: income gains, labor market restructuring, asset
 accumulation, and a measurable reduction in households' exposure to downward risk
-over a multi-year horizon. This is the first study to apply forward-looking vulnerability measurement to
+over a multi-year horizon. This is among the first studies to apply forward-looking vulnerability measurement to
 a major CCP governance initiative using a causal identification strategy robust
 to staggered treatment timing.
 
 Alongside the dissertation, I have developed a parallel conceptual strand,
-currently under revision for submission to *Journal of Chinese Governance*, that
-examines the organizational ecology of China's poverty alleviation governance and
-proposes the concept of a "development governance knowledge system": a distinctive
-model of state-led multi-actor coordination — integrating government agencies,
-universities, enterprises, and financial institutions — that departs structurally
-from the NGO-driven, donor-dependent frameworks dominant in international
-development research. A second working paper, in preparation for *China Quarterly*,
-extends this framework through text-as-data methods, developing a replicable
-pipeline for computational analysis of Chinese governance documents at scale.
+currently in preparation, that examines the organizational ecology of China's
+poverty alleviation governance and proposes the concept of a "development
+governance knowledge system": a distinctive model of state-led multi-actor
+coordination — integrating government agencies, universities, enterprises, and
+financial institutions — that departs structurally from the NGO-driven,
+donor-dependent frameworks dominant in international development research. A
+second working paper extends this framework through text-as-data methods,
+developing a replicable pipeline for computational analysis of Chinese governance
+documents at scale.
+
+This conceptual work is grounded in original data construction already underway.
+Under the supervision of Professor Xiulan Zhang, I have applied computational
+methods — including LLM-based document coding and structured information
+extraction — to build two original databases. The first is a multi-actor
+coordination database documenting government agency, enterprise, and social
+organization participation in China's poverty alleviation governance from 2010 to
+2023, constructed from policy documents, government reports, and organizational
+records at national scale. The second is a social organization database comprising
+over 2,000 organizations, with approximately 26 months of longitudinal data on
+funding flows and project activity. Together, these datasets constitute an
+empirical foundation for organizational ecology research on Chinese governance that
+does not yet exist in the field — and the starting point, not the ceiling, of the
+data infrastructure required to connect implementation variation to household
+outcomes.
 
 My first-authored paper, "Poor and Lazy: Understanding Middle-class Perceptions of
 Poverty in China" (*Journal of Contemporary China*, 2022, SSCI Q1), provides the
@@ -57,7 +72,7 @@ resolution required — is connect the two: to trace how variation in actor
 participation structures, resource allocation logic, and implementation intensity
 across thousands of counties produces the heterogeneous outcomes the regression
 analysis reveals. This requires processing hundreds of thousands of policy
-documents and organizational records. I spent a year at Apple's Intelligence
+documents and organizational records. I spent almost a year at Apple's Intelligence
 platform building exactly this infrastructure.
 
 Working on production-scale NLP pipelines, retrieval-augmented generation
