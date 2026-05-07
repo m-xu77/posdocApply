@@ -17,7 +17,7 @@ My doctoral dissertation, *The Impact of Targeted Poverty Alleviation Policies o
 Long-Term Development and Vulnerability to Poverty Relapse Among Rural Households:
 Evidence from a Quasi-Natural Experiment Using CFPS Panel Data* (Beijing Normal
 University, defense scheduled May 2026; passed blind external review), conducts a
-rigorous causal evaluation of China's flagship anti-poverty program. Drawing on six
+rigorous causal evaluation of China's flagship anti-poverty program. Drawing on seven
 waves of CFPS household panel data spanning 2010 to 2022, I apply staggered
 difference-in-differences designs and a three-stage least squares vulnerability
 estimation procedure to identify policy effects on household income trajectories
