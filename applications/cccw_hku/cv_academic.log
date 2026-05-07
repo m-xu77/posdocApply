@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.3.22)  7 MAY 2026 01:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.3.22)  7 MAY 2026 02:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -434,12 +434,17 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 97.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 97.
- [1{/usr/local/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/
-local/texlive/2026/texmf-dist/fonts/enc/dvips/base/8r.enc}
+
+Overfull \hbox (25.6401pt too wide) in alignment at lines 97--114
+[] []
+ []
+
+[1{/usr/local/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/l
+ocal/texlive/2026/texmf-dist/fonts/enc/dvips/base/8r.enc}
 
 ]
 LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 1
-59.
+55.
 
 (/usr/local/texlive/2026/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
@@ -452,23 +457,23 @@ LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
 Package rerunfilecheck Info: File `cv_academic.out' has not changed.
-(rerunfilecheck)             Checksum: 26E0AF50687AC860422F302387BECC38;1491.
+(rerunfilecheck)             Checksum: C78BDA267271190CB0C2F2CD7D94F1EE;1182.
  ) 
 Here is how much of TeX's memory you used:
- 11651 strings out of 467525
- 185587 string characters out of 5418982
- 647832 words of memory out of 5000000
- 40269 multiletter control sequences out of 15000+600000
- 671931 words of font info for 172 fonts, out of 8000000 for 9000
+ 11635 strings out of 467525
+ 185455 string characters out of 5418982
+ 647831 words of memory out of 5000000
+ 40267 multiletter control sequences out of 15000+600000
+ 671414 words of font info for 164 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,12n,79p,1200b,583s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,12n,79p,1200b,581s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2026/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/lo
 cal/texlive/2026/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texliv
 e/2026/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on cv_academic.pdf (3 pages, 62366 bytes).
+Output written on cv_academic.pdf (3 pages, 61137 bytes).
 PDF statistics:
- 85 PDF objects out of 1000 (max. 8388607)
- 73 compressed objects within 1 object stream
- 14 named destinations out of 1000 (max. 500000)
- 52817 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 76 PDF objects out of 1000 (max. 8388607)
+ 64 compressed objects within 1 object stream
+ 12 named destinations out of 1000 (max. 500000)
+ 52801 words of extra memory for PDF output out of 61914 (max. 10000000)
 
