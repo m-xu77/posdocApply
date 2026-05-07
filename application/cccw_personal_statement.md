@@ -49,7 +49,7 @@ coordination database documenting government agency, enterprise, and social
 organization participation in China's poverty alleviation governance from 2010 to
 2023, constructed from policy documents, government reports, and organizational
 records at national scale. The second is a social organization database comprising
-over 2,000 organizations, with approximately 26 months of longitudinal data on
+over 2,000 organizations, with over two years of longitudinal data on
 funding flows and project activity. Together, these datasets constitute an
 empirical foundation for organizational ecology research on Chinese governance that
 does not yet exist in the field — and the starting point, not the ceiling, of the
@@ -99,16 +99,26 @@ architecture translates into grassroots implementation outcomes — a micro-leve
 complement to CCCW's macro-level leadership research. My JCC paper on middle-class perceptions of poverty also connects directly to
 Professor Li's work on the Chinese middle class and its political consequences.
 
-A second, more exploratory project examines whether and how China's development
-governance model — the organizational ecology framework constructed in Project One
-— travels into ASEAN contexts through South-South cooperation and BRI channels.
-The scope is deliberately bounded: the goal within the fellowship period is not a
-fully comparative study but a conceptual mapping of the institutional mechanisms
-through which Chinese governance knowledge is transmitted internationally, drawing
-on publicly available policy documents and CCCW's existing regional research
-network. This positions the project as groundwork for future comparative research
-rather than a standalone deliverable, and keeps the primary commitment where the
-evidence base is strongest: on Project One.
+A second project extends the organizational ecology framework into China's
+international development agenda. China's Global Development Initiative and
+South-South cooperation programs now actively promote its domestic poverty
+governance model — including targeted poverty alleviation — to ASEAN partner
+states through training programs, bilateral agreements, and BRI project governance
+structures. Yet systematic evidence of how this promotion actually works is thin,
+and the field lacks any large-scale documentary analysis of which Chinese state
+actors drive the process and whether their governance frames are coherent or
+fragmented across bureaucratic sources. Drawing on public document corpora — MFA
+readouts, MOFCOM cooperation agreements, GDI training materials, and bilateral
+agreement texts from Cambodia, Laos, Myanmar, and Vietnam — I will apply
+LLM-based frame extraction and agency-labeled document classification to map
+whether and how the organizational logic of China's domestic poverty governance
+travels internationally, and where it diverges across bureaucratic actors. This
+project speaks directly to the field's central unresolved question — whether China
+exports governance institutions or merely infrastructure — and produces a
+methodologically distinctive answer grounded in documentary evidence rather than
+case inference. CCCW's regional research network and Hong Kong's access to both
+mainland documentary sources and ASEAN policy communities make it the ideal base
+for this work.
 
 CCCW is the right institutional home for this work. Professor Li Cheng's leadership
 program, the Centre's explicit investment in AI methods for social science, and Hong
@@ -118,6 +128,9 @@ together provide an environment uniquely positioned to support the kind of work
 I have described above. My connection to HKU is not new: I was selected for the
 University of Hong Kong Young Scholars Forum in July 2019, an experience that first
 oriented me toward Hong Kong as an intellectual home for China governance research.
-I look forward to building on that connection as a member of the CCCW community.
+I bring to CCCW not only a research program but a functional data infrastructure —
+two original databases, a replicable computational pipeline, and production-grade
+AI engineering experience — ready to extend from domestic governance into the
+international development agenda that defines CCCW's next research frontier.
 
 ---
