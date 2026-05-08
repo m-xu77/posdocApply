@@ -24,10 +24,9 @@ relationships I have had ample opportunity to observe her as a scholar, and I
 recommend her with confidence and without qualification.
 
 The paper we co-authored, "Poor and Lazy: Understanding Middle-Class Perceptions of
-Poverty in China," draws on survey data from my research programme on poverty
+Poverty in China," draws on survey data from a research programme on poverty
 perceptions and moral stigma in China, and Mengnan was involved across the full arc
-of the project — from questionnaire design and data collection with 2,449 middle-class
-respondents through to the quantitative analysis. She applied binomial and multinomial
+of the project — from questionnaire design and data collection through to the quantitative analysis. She applied binomial and multinomial
 logistic regression to relate poverty attribution patterns to psychological,
 sociological, and policy-related predictors. The analysis is technically rigorous, but
 what struck me most was the intellectual judgment she brought to interpreting the
@@ -36,16 +35,27 @@ but a study of the political conditions that make redistributive anti-poverty po
 difficult in China. That kind of analytical reach — from empirical patterns to
 structural implications — is not common at her career stage.
 
-My own research on poverty and shame in China and globally has convinced me that the
-ideational and the institutional dimensions of anti-poverty governance are
-inseparable: how the poor are perceived by those not in poverty shapes the political
-space for policy design as much as any institutional or fiscal variable. Mengnan
-grasps this. Her paper addresses the ideational conditions under which China's
-transition from targeted poverty alleviation to relative poverty reduction becomes
-politically feasible or contested. In doing so, it connects to the largest questions
-in Chinese political economy: how the party-state manages legitimacy through
-redistributive commitments, and what the middle class will tolerate. These are
-questions at the heart of the research agenda that CCCW is built to address.
+My supervisory relationship with Mengnan has given me a vantage point that extends
+beyond the published work. What I have observed over the arc of her doctoral research
+is a scholar who thinks independently under pressure: she does not defer to received
+frameworks when the evidence pushes elsewhere, and she pursues analytical problems
+with a persistence and intellectual honesty that is not common at her career stage.
+What strikes me equally is the depth of her commitment to academic work as a
+vocation. She has maintained a serious and cumulative research programme across
+significant institutional transitions and competing demands — that kind of sustained
+dedication, in my experience, is a more reliable predictor of scholarly achievement
+than any single paper or result.
+She is also among the most effective communicators of research I have worked with
+among junior scholars — precise in her language, alert to her audience, and able to
+hold the thread of a complex argument across a long seminar discussion. I have had
+further opportunity to observe these qualities through her role as teaching assistant
+for my graduate seminar on the frontiers of social development governance at Beijing
+Normal University. Her involvement went well beyond
+logistical support: she participated actively in discussion, helped students navigate
+the intersection of Chinese and international scholarship, and engaged with the
+material at the level of a collaborator. The bilingual intellectual environment of
+that seminar is a reasonable approximation of what a researcher at CCCW will face
+daily — and Mengnan was entirely at home in it.
 
 I should also note what Mengnan represents as a scholar working at an unusual
 disciplinary intersection. Her quantitative competence is considerable, but it
