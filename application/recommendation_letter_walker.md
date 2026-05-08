@@ -86,7 +86,10 @@ recommend her to your fellowship without reservation.
 Sincerely,
 
 **Robert Walker, Ph.D.**\
-Professor Emeritus, University of Oxford\
-Professor, Beijing Normal University\
+Professor Emeritus, Department of Social Policy and Intervention\
+Emeritus Fellow, Green Templeton College, University of Oxford\
+Professor, China Academy of Social Management / School of Sociology\
+Beijing Normal University (High-Level Foreign Talents Programme)\
+Harvard Kennedy School Shorenstein Fellow (Spring 2021, Spring 2022)\
 MBE, Fellow of the Academy of Social Sciences\
 robert.walker@spi.ox.ac.uk
