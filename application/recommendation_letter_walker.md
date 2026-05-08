@@ -24,13 +24,12 @@ relationships I have had ample opportunity to observe her as a scholar, and I
 recommend her with confidence and without qualification.
 
 The paper we co-authored, "Poor and Lazy: Understanding Middle-Class Perceptions of
-Poverty in China," was Mengnan's project in origin and in execution. The central
-argument — that middle-class attributions of poverty to laziness and moral failing
-are not simply ideological prejudice but are shaped by personality traits,
-socialisation, and faith in state policy — required her to build an original survey
-instrument, collect data from 2,449 middle-class respondents, and apply binomial and
-multinomial logistic regression to relate poverty attribution patterns to
-psychological and sociological predictors. The analysis is technically rigorous, but
+Poverty in China," draws on survey data from my research programme on poverty
+perceptions and moral stigma in China, and Mengnan was involved across the full arc
+of the project — from questionnaire design and data collection with 2,449 middle-class
+respondents through to the quantitative analysis. She applied binomial and multinomial
+logistic regression to relate poverty attribution patterns to psychological,
+sociological, and policy-related predictors. The analysis is technically rigorous, but
 what struck me most was the intellectual judgment she brought to interpreting the
 results: she understood from the outset that this was not merely a study of attitudes
 but a study of the political conditions that make redistributive anti-poverty policy
