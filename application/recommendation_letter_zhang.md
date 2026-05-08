@@ -1,9 +1,9 @@
-**Xiulan Zhang, Ph.D.**
-Professor Emeritus, Founding Dean
-School of Social Development and Public Policy
-Beijing Normal University
-19 Xinjiekouwai Street, Beijing 100875, China
-Tel: 86-10-58801512 | 86-13910959315
+**Xiulan Zhang, Ph.D.**  
+Professor Emeritus, Founding Dean  
+School of Social Development and Public Policy  
+Beijing Normal University  
+19 Xinjiekouwai Street, Beijing 100875, China  
+Tel: 86-10-58801512 | 86-13910959315  
 Email: cap007ca@yahoo.com
 
 ---
@@ -40,8 +40,8 @@ I recommend Mengnan Xu to the Centre on Contemporary China and the World with co
 
 Sincerely,
 
-**Xiulan Zhang, Ph.D.**
-Professor Emeritus, Founding Dean
-School of Social Development and Public Policy, Beijing Normal University
-Independent Non-executive Director, Tencent Holdings Ltd
+**Xiulan Zhang, Ph.D.**  
+Professor Emeritus, Founding Dean  
+School of Social Development and Public Policy, Beijing Normal University  
+Independent Non-executive Director, Tencent Holdings Ltd  
 cap007ca@yahoo.com | 86-13910959315
