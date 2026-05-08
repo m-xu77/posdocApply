@@ -86,10 +86,13 @@ government, university, and foundation settings, make her well suited to CCCW's
 intellectually demanding and internationally oriented research environment.
 
 In working with Mengnan over these years, I have found her to be efficient,
-self-directed, and genuinely caring toward her colleagues. She is warm, confident,
-optimistic, and intellectually ambitious — qualities that made her an exceptional
-member of my research team and that I believe will make her a valued colleague at
-CCCW. I recommend her to your fellowship with full confidence.
+self-directed, and genuinely caring toward her colleagues. She served as a teaching
+assistant in my doctoral seminars, where she demonstrated a clear ability to explain
+complex methodological material, provide constructive feedback on student work, and
+support a productive learning environment. She is warm, confident, optimistic, and
+intellectually ambitious — qualities that made her an exceptional member of my
+research team and that I believe will make her a valued colleague at CCCW. I
+recommend her to your fellowship with full confidence.
 
 Sincerely,
 
