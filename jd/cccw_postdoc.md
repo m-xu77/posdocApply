@@ -16,7 +16,7 @@ CCCW is seeking a highly analytical and rigorously trained researcher to conduct
 – design/refine research methodologies
 – coordinate data collection and analysis
 – support the organization of events
-– assist in the preparation of reports
+– assist in the preparation of reports  
 – perform other duties as assigned
 Requirements
 
