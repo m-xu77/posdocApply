@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.3.22)  8 MAY 2026 10:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.3.22)  8 MAY 2026 13:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -460,34 +460,24 @@ enddocument/afterlastpage (AED): lastpage setting LastPage.
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package rerunfilecheck Warning: File `cv_academic.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `cv_academic.out':
-(rerunfilecheck)             Before: 1EC0C67CF87A3EE029A2D93367D91242;1647
-(rerunfilecheck)             After:  57A04FCF8150F54BECAB58DDF30A8092;1790.
+Package rerunfilecheck Info: File `cv_academic.out' has not changed.
+(rerunfilecheck)             Checksum: 57A04FCF8150F54BECAB58DDF30A8092;1790.
  ) 
 Here is how much of TeX's memory you used:
- 11712 strings out of 467525
- 186471 string characters out of 5418982
+ 11713 strings out of 467525
+ 186483 string characters out of 5418982
  648832 words of memory out of 5000000
- 40298 multiletter control sequences out of 15000+600000
+ 40299 multiletter control sequences out of 15000+600000
  681459 words of font info for 202 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,12n,79p,1200b,455s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2026/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/lo
 cal/texlive/2026/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texliv
 e/2026/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on cv_academic.pdf (3 pages, 64477 bytes).
+Output written on cv_academic.pdf (3 pages, 64521 bytes).
 PDF statistics:
- 90 PDF objects out of 1000 (max. 8388607)
- 78 compressed objects within 1 object stream
+ 93 PDF objects out of 1000 (max. 8388607)
+ 81 compressed objects within 1 object stream
  16 named destinations out of 1000 (max. 500000)
- 66137 words of extra memory for PDF output out of 74296 (max. 10000000)
+ 66145 words of extra memory for PDF output out of 74296 (max. 10000000)
 
