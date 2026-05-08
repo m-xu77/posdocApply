@@ -1,103 +1,30 @@
-**Xiulan Zhang, Ph.D.**  
-Professor Emeritus, Founding Dean  
-School of Social Development and Public Policy  
-Beijing Normal University  
-19 Xinjiekouwai Street, Beijing 100875, China  
-Tel: 86-10-58801512 | 86-13910959315  
-Email: cap007ca@yahoo.cn  
-
----
-
+Xiulan Zhang, Ph.D.
+Professor Emeritus, Founding Dean
+School of Social Development and Public Policy
+Beijing Normal University
+19 Xinjiekouwai Street, Beijing 100875, China
+Tel: 86-10-58801512 | 86-13910959315
+Email: cap007ca@yahoo.com
 May 2026
-
 Dear Members of the Search Committee,
-
-It is my great pleasure to recommend Mengnan Xu for the Postdoctoral Fellowship at
-the Centre on Contemporary China and the World. I have served as Mengnan's academic
-advisor since she enrolled in the Master of Public Management program at Beijing
-Normal University in 2016 — a supervisory relationship now spanning nearly a decade
-that has taken her through her master's research, her doctoral dissertation, and two
-major collaborative research programs I have led. Among the many Master's and PhD
-students I have supervised over more than thirty years, Mengnan is genuinely
-distinctive. I recommend her without reservation.
-
-Mengnan completed her Master's program with a thesis I regarded as
-publication-ready, demonstrating throughout a rare capacity for critical thinking and
-independent analytical reasoning that distinguished her from her peers. On the
-strength of that performance, I invited her to continue in the PhD program as my
-doctoral advisee. Her doctoral dissertation — a causal evaluation of
-China's Targeted Poverty Alleviation program using seven waves of CFPS panel data —
-passed blind external review and is scheduled for oral defense in May 2026. It
-represents a serious contribution to the empirical study of Chinese welfare governance.
-
-The work I want to place at the centre of this letter is the original data
-infrastructure Mengnan has constructed under my direct supervision, and the research
-it has made possible. The Gates Foundation China tobacco control initiative I chaired
-— a $5.5 million project involving the National Health Commission, Ministry of
-Finance, China Taxation Administration, the State Council Research and Development
-Center, non-profit organizations, and academic communities — relied on Mengnan for
-data platform construction and cross-institutional coordination. She is a researcher
-who identifies what needs to be built before being asked: during that project, she
-independently designed and constructed two databases — the China Tobacco Industry
-Watch and the China National Social Organization Database — that became central
-infrastructure for the research program. We co-authored papers from this work,
-including a publication in *BMJ Open* (Q1).
-
-Building on that foundation, Mengnan has since constructed, under my supervision, two
-original databases that constitute the empirical core of our joint working papers. The
-first is a multi-actor coordination database documenting government agency, enterprise,
-and social organization participation in China's poverty alleviation governance from
-2010 to 2023, constructed from policy documents, government reports, and
-organizational records at national scale. The second is a social organization database
-covering over 2,000 organizations with over two years of longitudinal data on funding
-flows and project activity. These datasets did not exist in the field before this work.
-Their construction required the ability to integrate heterogeneous sources at scale,
-sustained methodological judgment, and a conceptual grasp of how organizational
-participation structures shape governance outcomes — not merely technical execution.
-
-These databases are the empirical foundation for two collaborative working papers I
-am co-authoring with Mengnan. The first proposes the concept of a "development
-governance knowledge system" — a model of state-led multi-actor coordination that
-departs structurally from the NGO-centered frameworks dominant in international
-development research. The second develops a replicable computational pipeline for
-large-scale analysis of Chinese governance documents. Both papers are in active
-development, with data collection and processing complete; submission is planned
-during the postdoctoral fellowship period.
-
-With my encouragement, Mengnan took a year to deepen her AI engineering capabilities
-at Apple's Intelligence platform, where she worked on production-scale natural
-language processing systems. I supported this decision because the research agenda we
-have been building together demands more than statistical competence — it requires
-someone who can construct and validate large-scale computational pipelines with an
-engineer's discipline. That experience, brought back to the governance document
-corpora we have been assembling, means the methods in our working papers are grounded
-in first-hand knowledge of how these systems perform under real-world conditions. For
-CCCW, this translates into a researcher who can advance AI-driven governance analysis
-not merely as an analytical technique, but as a rigorous and reproducible scholarly
-methodology.
-
-This body of work speaks directly to CCCW's research priorities. The organizational
-ecology of China's poverty alleviation implementation — who participates, through
-which institutional channels, and with what coordination logic — is precisely the
-kind of sub-national governance analysis that complements the Centre's research on
-Chinese political leadership and party-state capacity. Her native Mandarin fluency
-and command of academic English, combined with her experience coordinating across
-government, university, and foundation settings, make her well suited to CCCW's
-intellectually demanding and internationally oriented research environment.
-
-In working with Mengnan over these years, I have found her to be efficient,
-self-directed, and genuinely caring toward her colleagues. She served as a teaching
-assistant in my doctoral seminars, where she demonstrated a clear ability to explain
-complex methodological material, provide constructive feedback on student work, and
-support a productive learning environment. She is warm, confident, optimistic, and
-intellectually ambitious — qualities that made her an exceptional member of my
-research team and that I believe will make her a valued colleague at CCCW. I
-recommend her to your fellowship with full confidence.
-
+I have followed the development of the Centre on Contemporary China and the World with great interest over several years, both because of my long-standing relationship with the University of Hong Kong — including serving as the first HKU Millennium Scholar from Mainland China and later as an honorary professor in social work — and because of my long academic friendship with Professor Cheng Li dating back to our years at Berkeley.
+When I learned that the Centre was recruiting postdoctoral fellows, I immediately thought of my doctoral student, Mengnan Xu, who is now completing her PhD under my supervision at Beijing Normal University. Her research agenda, methodological strengths, and long-term commitment to building original governance datasets align remarkably well with the Centre’s intellectual direction and research priorities. It is therefore my great pleasure to recommend her for the Postdoctoral Fellowship at the Centre on Contemporary China and the World.
+I have known Mengnan for nearly a decade, since she entered the Master of Public Management program at Beijing Normal University in 2016. Over these years, I have watched her grow from an exceptionally thoughtful graduate student into a mature and independent researcher with unusual intellectual discipline, persistence, and quiet confidence. Among the many students I have supervised during more than thirty years in academia, she stands out not simply because of her technical abilities, but because she consistently takes responsibility for difficult work that others often avoid — especially the long, patient work of building data infrastructure and making complex research possible.
+Mengnan completed her Master’s degree with a thesis that I considered publication-ready. Even at that stage, she demonstrated an uncommon ability to think critically and work independently. On the strength of her performance, I invited her to continue into the PhD program as my doctoral advisee. Her dissertation, a causal evaluation of China’s Targeted Poverty Alleviation program using seven waves of CFPS panel data, successfully passed blind external review and is scheduled for defense in May 2026. The project combines rigorous methodological training with a deep understanding of Chinese social policy and governance processes.
+What impressed me most over the years was that Mengnan never waited to be told what was missing. She had a strong instinct for identifying the underlying infrastructure a project required, and then quietly building it with remarkable persistence and care.
+This quality became especially evident during the Gates Foundation China Tobacco Control initiative that I chaired — a multi-million-dollar collaborative project involving the National Health Commission, Ministry of Finance, China Taxation Administration, the Development Research Center of the State Council, non-profit organizations, and academic institutions. During this project, Mengnan played an important role in data platform construction and cross-institutional coordination. While still a graduate student, she independently designed and built two databases — the China Tobacco Industry Watch and the China National Social Organization Database — both of which became central research infrastructure for the project. We later co-authored publications from this work, including a paper published in BMJ Open.
+Perhaps even more importantly, this experience gave Mengnan first-hand knowledge of how China’s governance system functions in practice — how ministries coordinate, how policy implementation unfolds across institutional levels, and how state and non-state actors interact in real policy environments. As someone who has spent many years working at the intersection of academia, policy, and large-scale governance initiatives, I believe this practical understanding is an unusually important advantage. Many PhD students are trained primarily within academic settings; Mengnan developed her research perspective through direct engagement with real governance processes.
+Building on this experience, Mengnan went on to construct two original databases that now form the empirical foundation of our current collaborative research. The first is a multi-actor coordination database documenting the participation of government agencies, enterprises, and social organizations in China’s poverty alleviation governance from 2010 to 2023. The second is a longitudinal database covering more than 2,000 social organizations and their funding flows and project activities. These datasets did not previously exist in the field. Their construction required not only technical skill, but also intellectual judgment — the ability to understand how institutional relationships and organizational participation shape governance outcomes over time.
+These databases have become the basis for two collaborative working papers that Mengnan and I are currently developing together. One examines what we describe as a “development governance knowledge system,” highlighting forms of state-led multi-actor coordination that differ significantly from the NGO-centered frameworks common in international development research. The second develops a computational pipeline for large-scale analysis of Chinese governance documents. Both projects are now well advanced, with data collection and processing substantially completed.
+As our research increasingly moved toward large-scale governance text analysis and computational methods, Mengnan also recognized the importance of gaining deeper technical experience beyond conventional academic training.
+At one stage of her doctoral training, she decided to spend a year working on Apple’s intelligence platform. I strongly encouraged her to do so because I believed that the future of governance research would increasingly require scholars capable of moving fluently between social science inquiry and large-scale computational systems. What impressed me was not simply that she acquired technical experience in production-level natural language processing systems, but that she returned from the experience with a more mature understanding of how AI systems actually function under real-world conditions. This combination of empirical social science training and practical AI experience remains relatively rare, and I believe it gives her unusual long-term potential as a researcher.
+This combination of institutional knowledge, empirical research experience, and computational training is precisely what makes her especially well suited for the Centre on Contemporary China and the World.
+Mengnan’s work speaks directly to the Centre’s research priorities. Her research on China’s poverty alleviation governance explores precisely the kinds of questions that are central to understanding state capacity, policy coordination, and institutional adaptation in contemporary China: who participates in governance, through which organizational channels, and with what forms of coordination and knowledge production. In addition, her experience working across government agencies, universities, foundations, and technology environments has given her a level of institutional maturity uncommon among early-career scholars.
+Beyond her academic accomplishments, Mengnan is thoughtful, dependable, and genuinely generous toward the people around her. Over many years of working together, I have come to value not only her intellectual ability, but also her steadiness of character. She is someone I trust deeply in collaborative work because she approaches difficult tasks with seriousness, integrity, and patience. In today’s academic environment, those qualities matter enormously.
+I recommend Mengnan Xu to the Centre on Contemporary China and the World with complete confidence and genuine enthusiasm. I believe she will contribute not only strong analytical and technical capabilities, but also intellectual seriousness, maturity, and a deeply collaborative spirit. I can think of few young scholars better prepared to contribute to the Centre’s evolving research agenda, and I very much hope she will have the opportunity to continue her scholarly development in such an outstanding intellectual community.
 Sincerely,
-
-**Xiulan Zhang, Ph.D.**  
-Professor Emeritus, Founding Dean  
-School of Social Development and Public Policy, Beijing Normal University  
-Independent non-executive director, Tencent Holdings Ltd  
-cap007ca@yahoo.cn | 86-13910959315  
+Xiulan Zhang, Ph.D.
+Professor Emeritus, Founding Dean
+School of Social Development and Public Policy
+Beijing Normal University
+cap007ca@yahoo.com | 86-13910959315
