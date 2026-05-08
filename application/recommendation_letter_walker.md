@@ -1,11 +1,11 @@
-**Robert Walker, Ph.D.**  
-Professor Emeritus, Department of Social Policy and Intervention  
-Emeritus Fellow, Green Templeton College  
-University of Oxford, 32 Wellington Square, Oxford OX1 2ER, UK  
-Professor, China Academy of Social Management / School of Sociology  
-Beijing Normal University (High-Level Foreign Talents Programme)  
-Harvard Kennedy School Shorenstein Fellow (Spring 2021, Spring 2022)  
-MBE, Fellow of the Academy of Social Sciences  
+**Robert Walker, Ph.D.**\
+Professor Emeritus, Department of Social Policy and Intervention\
+Emeritus Fellow, Green Templeton College\
+University of Oxford, 32 Wellington Square, Oxford OX1 2ER, UK\
+Professor, China Academy of Social Management / School of Sociology\
+Beijing Normal University (High-Level Foreign Talents Programme)\
+Harvard Kennedy School Shorenstein Fellow (Spring 2021, Spring 2022)\
+MBE, Fellow of the Academy of Social Sciences\
 Email: robert.walker@spi.ox.ac.uk  
 
 ---
@@ -15,13 +15,16 @@ May 2026
 Dear Members of the Search Committee,
 
 I am writing in strong support of Mengnan Xu's application for the Postdoctoral
-Fellowship at the Centre on Contemporary China and the World. I know Mengnan through
-direct research collaboration at Beijing Normal University, where I hold a position
-as Professor under China's High-Level Foreign Talents Programme. We are co-authors
-on a paper published in the *Journal of Contemporary China* (2022, SSCI Q1), and I
-have had the opportunity to observe her as a scholar across the full arc of that
-project — from conceptualisation through data collection, analysis, and revision for
-publication. I recommend her with confidence and without qualification.
+Fellowship at the Centre on Contemporary China and the World. I know Mengnan in two
+capacities: as her co-supervisor and dissertation committee member at Beijing Normal
+University, where I hold a position as Professor under China's High-Level Foreign
+Talents Programme, and as a direct research collaborator. We are co-authors on a
+paper published in the *Journal of Contemporary China* (2022, SSCI Q1), and through
+both the supervisory relationship and that collaboration I have had the opportunity
+to observe her as a scholar across multiple dimensions of her work — from the
+conceptualisation and execution of independent research to the rigorous development
+of her doctoral dissertation, which passed blind external review and is scheduled for
+defense in May 2026. I recommend her with confidence and without qualification.
 
 The paper we co-authored, "Poor and Lazy: Understanding Middle-Class Perceptions of
 Poverty in China," was Mengnan's project in origin and in execution. The central
@@ -76,8 +79,8 @@ recommend her to your fellowship without reservation.
 
 Sincerely,
 
-**Robert Walker, Ph.D.**  
-Professor Emeritus, University of Oxford  
-Professor, Beijing Normal University  
-MBE, Fellow of the Academy of Social Sciences  
-robert.walker@spi.ox.ac.uk  
+**Robert Walker, Ph.D.**\
+Professor Emeritus, University of Oxford\
+Professor, Beijing Normal University\
+MBE, Fellow of the Academy of Social Sciences\
+robert.walker@spi.ox.ac.uk
