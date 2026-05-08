@@ -1,0 +1,296 @@
+%% ============================================================
+%%  Academic Curriculum Vitae — Mengnan (Monica) Xu
+%%  Target: Postdoctoral Fellow, CCCW, University of Hong Kong
+%%  Compiled with pdflatex
+%%
+%%  INSTRUCTIONS FOR CANDIDATE:
+%%  1. Fill in actual publication titles/venues in the
+%%     "Working Papers & Publications" section.
+%%  2. Add/remove conference presentations as appropriate.
+%%  3. Add dissertation committee members' names.
+%%  4. Run:  pdflatex cv_academic.tex  (twice for page refs)
+%% ============================================================
+
+\documentclass[11pt, letterpaper]{article}
+
+%% ---- Packages -----------------------------------------------
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{mathptmx}          % Times New Roman — standard in social science
+\usepackage[margin=1in, top=0.85in, bottom=0.85in]{geometry}
+\usepackage{microtype}
+\usepackage[hidelinks]{hyperref}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{parskip}
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+\usepackage{url}
+
+%% ---- Page style ---------------------------------------------
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[R]{\small\itshape Xu --- \thepage\ of \pageref{LastPage}}
+\renewcommand{\headrulewidth}{0pt}
+
+%% ---- Section formatting ------------------------------------
+\titleformat{\section}
+  {\large\bfseries\scshape}
+  {}
+  {0em}
+  {}
+  [\vspace{-6pt}\rule{\linewidth}{0.6pt}]
+\titlespacing*{\section}{0pt}{14pt}{6pt}
+
+%% ---- Entry commands -----------------------------------------
+
+% Two-column education / experience header
+\newcommand{\cventry}[4]{%
+  % #1 = year(s), #2 = title/degree, #3 = institution, #4 = location
+  \noindent\textbf{#2}\\
+  \textit{#3}, #4 \hfill \textit{#1}\par\vspace{3pt}
+}
+
+% Hanging-indent bibliography entry
+\newcommand{\pubentry}[1]{%
+  \noindent\hangindent=1.2em\hangafter=1 #1\par\vspace{4pt}
+}
+
+%% ---- List settings -----------------------------------------
+\setlist[itemize]{
+  leftmargin=1.5em,
+  itemsep=1pt,
+  topsep=3pt,
+  parsep=0pt
+}
+
+\setlength{\parskip}{5pt}
+\setlength{\parindent}{0pt}
+
+%% ============================================================
+\begin{document}
+
+%% ---- Header ------------------------------------------------
+\begin{center}
+  {\LARGE\bfseries Mengnan Xu}\\[6pt]
+  \small
+  (512)\,808-6808\quad
+  \href{mailto:mnchu007@hotmail.com}{mnchu007@hotmail.com}\\[2pt]
+  \textit{PhD in Public Management (defense May 2026),
+          Beijing Normal University}
+\end{center}
+
+\vspace{4pt}
+
+%% ---- Research Interests ------------------------------------
+\section{Research Interests}
+
+Chinese politics and governance; state capacity and organizational mobilization;
+development governance; China's poverty alleviation programs; AI and
+computational methods for social science; political economy of China;
+South--South cooperation and international development.
+
+%% ---- Education ---------------------------------------------
+\section{Education}
+
+\noindent
+\begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
+  \textbf{Ph.D., Public Management}
+    & \textit{Oct 2018 -- May 2026}\\
+  \textit{Beijing Normal University, School of Social Development and Public Policy}
+    & Beijing, China\\[4pt]
+  \textbf{Master of Public Management}
+    & \textit{Sep 2016 -- Jun 2018}\\
+  \textit{Beijing Normal University, School of Social Development and Public Policy}
+    & Beijing, China\\[4pt]
+  \textbf{Master of Science, Information Technology and Management}
+    & \textit{Jul 2023 -- May 2024}\\
+  \textit{University of Texas at Austin, McCombs School of Business}
+    & Austin, TX, USA\\
+  \multicolumn{2}{@{}l@{}}{\small\textit{Concurrent with doctoral study at Beijing Normal University.}}\\[4pt]
+  \textbf{Bachelor of Management Science \& Engineering (MIS)}
+    & \textit{Sep 2008 -- Jun 2012}\\
+  \textit{Central South University}
+    & Changsha, China\\
+\end{tabular*}
+
+\vspace{6pt}
+\noindent\textbf{Doctoral Dissertation:}\\
+\textit{The Impact of Targeted Poverty Alleviation Policies on Long-Term Development and Vulnerability to Poverty Relapse Among Rural Households: Evidence from a Quasi-Natural Experiment Using CFPS Panel Data}\\
+Beijing Normal University, School of Social Development and Public Policy.\\
+\small\textit{Passed blind external review; oral defense scheduled May 2026.}
+
+%% ---- Visiting Positions ------------------------------------
+\section{Visiting Positions}
+
+\noindent
+\begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
+  \textbf{Visiting Doctoral Researcher}
+    & \textit{Aug 2021 -- Aug 2022}\\
+  \textit{Department of Government, University of Texas at Austin}
+    & Austin, TX, USA\\
+  \multicolumn{2}{@{}l@{}}{\small\textit{China Scholarship Council Fellowship}}\\[4pt]
+  \textbf{Visiting Scholar}
+    & \textit{Sep -- Oct 2019}\\
+  \textit{University of Oxford}
+    & Oxford, UK\\
+\end{tabular*}
+
+%% ---- Fellowships & Awards ----------------------------------
+\section{Fellowships and Awards}
+
+\pubentry{China Scholarship Council (CSC) Fellowship for Visiting Doctoral Research,
+Department of Government, University of Texas at Austin. Aug 2021--Aug 2022.}
+
+\pubentry{STEPS Summer School Scholarship, Institute of Development Studies (IDS),
+University of Sussex. 2021.}
+
+\pubentry{Young Scholars Forum Scholarship, University of Hong Kong. Jul 2019.}
+
+%% ---- Working Papers & Publications -------------------------
+\section{Publications \& Working Papers}
+
+\pubentry{\textbf{Xu, Mengnan}, Robert Walker, and Lichao Yang.
+``Poor and Lazy: Understanding Middle-Class Perceptions of Poverty in China.''
+\textit{Journal of Contemporary China}, 31(136), 756--769, 2022.
+DOI: 10.1080/10670564.2021.2010878. (SSCI Q1; \textbf{First Author})}
+
+\pubentry{Xiaoxin Xu, Xiulan Zhang, Teh Wei Hu, Leonard S Miller, \textbf{Xu, Mengnan} et al.
+``Tobacco Control Policy Evaluation in China: Evidence from Administrative Panel Data.''
+\textit{BMJ Open}, 2019.}
+
+\pubentry{Xiulan Zhang, Xiaoxin Xu, \textbf{Xu, Mengnan}, and Teh-wei Hu.
+``The Impact of Tobacco Taxation Policy on Slim Cigarette Use and the Growing Popularity of Slim Cigarettes in China Since 2014.''
+\textit{Health}, 2019.}
+
+\pubentry{Xiulan Zhang, \textbf{Xu, Mengnan.} ``Organizational Ecology and Multi-Actor
+State Mobilization in China's Poverty Alleviation Governance.''
+\textit{Working paper. Original database complete; manuscript under revision;
+submission planned during postdoctoral fellowship.}}
+
+\pubentry{Xiulan Zhang, \textbf{Xu, Mengnan.} ``Computational Methods for Large-Scale
+Chinese Policy Document Analysis: A Text-as-Data Approach to Governance
+Research.'' \textit{Working paper. Data collection and processing complete;
+writing in progress; submission planned during postdoctoral fellowship.}}
+
+%% ---- Research Experience -----------------------------------
+\section{Research Experience}
+
+\noindent\textbf{Postgraduate Research Assistant}
+\hfill \textit{Sep 2016 -- Jun 2018}\\
+\textit{Beijing Normal University, School of Social Development and Public Policy}
+\hfill Beijing, China\\
+\small\textit{Gates Foundation–Funded Research Initiative on Development Governance}
+
+\begin{itemize}
+  \item Built an original organizational ecology database tracking actors,
+        resource flows, and governance logic across China's non-profit sector,
+        drawing on yearbooks, government reports, and policy documents.
+  \item Applied NLP pipelines (topic modeling, named-entity recognition,
+        keyword co-occurrence networks) to Chinese-language policy corpora
+        exceeding 10,000 documents.
+  \item Designed and executed large-scale quantitative and qualitative data
+        collection; performed statistical analysis using SAS, Stata, and Python.
+  \item Conducted archival research and comparative policy analysis on Chinese
+        governance, central--local relations, and organizational reform.
+  \item Translated empirical findings into policy briefs for program leadership
+        and external stakeholders; coordinated across government, university,
+        and foundation partners.
+\end{itemize}
+
+%% ---- Teaching Experience -----------------------------------
+% \section{Teaching Experience}
+% Add any teaching assistantships or courses taught here.
+
+%\noindent\textit{[Teaching assistant roles or courses taught at Beijing Normal University may be listed here.]}
+
+%% ---- Conference Presentations ------------------------------
+\section{Conference Presentations}
+
+\pubentry{``The Concern of Netizens towards Electronic Cigarette in Their
+Internet Search Behavior.''
+China--Korea Academic Exchange Forum (Beijing Normal University \& Soongsil University),
+Beijing, China. October 2019.
+\textit{First Prize; Best Presentation Award.}}
+
+\pubentry{``The Concern of Netizens towards Electronic Cigarette in
+Their Internet Search Behavior.''
+Annual Research Postgraduate Conference, University of Hong Kong,
+Hong Kong. June 2019.}
+
+\pubentry{``Consensus Guidance, Policy Advocacy Mechanism on China Tobacco Control.''
+China--Korea Academic Exchange Forum (Beijing Normal University \& Soongsil University),
+Seoul, South Korea. May 2018.}
+
+%% ---- Relevant Professional Experience ----------------------
+\section{Relevant Professional Experience}
+
+\noindent\textbf{Software Engineer / AI Engineer}
+\hfill \textit{Jun 2025 -- Mar 2026}\\
+\textit{Apple Inc.}
+\begin{itemize}
+  \item Developed components for Apple's Intelligence platform, focusing on
+        production-scale natural language processing pipelines and
+        retrieval-augmented generation architectures.
+  \item Applied large language model techniques to large-scale information
+        processing and knowledge integration systems, gaining first-hand
+        engineering experience with the tools now central to computational
+        social science.
+\end{itemize}
+
+\vspace{6pt}
+\noindent\textbf{Software Engineer}
+\hfill \textit{Apr 2026 -- Present}\\
+\textit{Applied Optical Technologies}
+\begin{itemize}
+  \item Built full-pipeline automated data monitoring and analytics system
+        for manufacturing execution processes.
+  \item Designed modules for large-scale data collection, cleaning, and
+        multi-dimensional statistical analysis.
+\end{itemize}
+
+\vspace{6pt}
+\noindent\textbf{Senior Risk Analyst}
+\hfill \textit{Jul 2012 -- Jun 2016}\\
+\textit{Agricultural Bank of China} \hfill Hengyang, China
+\begin{itemize}
+  \item Extracted and analyzed large-scale financial datasets using SQL and
+        statistical modeling to support risk management and policy analytics.
+  \item Developed credit scoring models (logistic regression, WOE binning)
+        that reduced default rates and improved loan processing efficiency.
+\end{itemize}
+
+%% ---- Methodological & Technical Skills ---------------------
+\section{Methodological and Technical Skills}
+
+\noindent\textbf{Quantitative and Computational Methods:}
+Regression analysis, difference-in-differences, network analysis,
+causal inference; Python (pandas, NumPy, scikit-learn), R, SQL, STATA/SAS.
+
+\noindent\textbf{AI and NLP for Social Science:}
+Large language models (fine-tuning, retrieval-augmented generation,
+prompt engineering), topic modeling (LDA, BERTopic), named-entity recognition,
+text classification, word embeddings; LangChain, OpenAI API, Hugging Face, AI agentic engineering.
+
+\noindent\textbf{Data Infrastructure:}
+AWS (S3, Lambda, SageMaker), BigQuery, MySQL, MongoDB; Git, Jupyter,
+Tableau, Power BI.
+
+\noindent\textbf{Research Methods:}
+Archival and documentary analysis, qualitative case study, elite
+interviews, survey research.
+
+%% ---- Languages ---------------------------------------------
+\section{Languages}
+
+\begin{tabular}{@{}ll}
+  Mandarin Chinese & Native \\
+  English          & Proficient (academic writing, presentations, and publication) \\
+\end{tabular}
+
+%% ---- References --------------------------------------------
+\section{References}
+
+Available upon request.
+
+\end{document}
