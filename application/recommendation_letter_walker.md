@@ -18,13 +18,10 @@ I am writing in strong support of Mengnan Xu's application for the Postdoctoral
 Fellowship at the Centre on Contemporary China and the World. I know Mengnan in two
 capacities: as her co-supervisor and dissertation committee member at Beijing Normal
 University, where I hold a position as Professor under China's High-Level Foreign
-Talents Programme, and as a direct research collaborator. We are co-authors on a
-paper published in the *Journal of Contemporary China* (2022, SSCI Q1), and through
-both the supervisory relationship and that collaboration I have had the opportunity
-to observe her as a scholar across multiple dimensions of her work — from the
-conceptualisation and execution of independent research to the rigorous development
-of her doctoral dissertation, which passed blind external review and is scheduled for
-defense in May 2026. I recommend her with confidence and without qualification.
+Talents Programme, and as a direct research collaborator — we are co-authors on a
+paper published in the *Journal of Contemporary China* (2022, SSCI Q1). Through both
+relationships I have had ample opportunity to observe her as a scholar, and I
+recommend her with confidence and without qualification.
 
 The paper we co-authored, "Poor and Lazy: Understanding Middle-Class Perceptions of
 Poverty in China," was Mengnan's project in origin and in execution. The central
