@@ -1,7 +1,7 @@
-**[Charan Full Name]**  
-[Job Title], [Team/Org Name]  
-Apple Inc., [Location]  
-Email: [charan@email.com]  
+**[Charan Nama Arunkumar]**  
+[Senior Software Engineer], [CSO, Global Sales]  
+Apple Inc., [Austin, TX]  
+Email: []  
 
 ---
 
@@ -13,7 +13,7 @@ I write in support of Mengnan Xu's application for the Postdoctoral Fellowship a
 the Centre on Contemporary China and the World. I am an AI engineer at Apple, and
 Mengnan and I worked as close collaborators on the same team within Apple's
 Intelligence platform — building, evaluating, and deploying production-scale natural
-language processing systems powered by large language models. I am not her supervisor;
+language processing systems powered by multiple large language models. I am not her supervisor;
 I write as a peer who worked alongside her in the day-to-day technical work, which
 I believe gives me a particular vantage point on the qualities that distinguish her
 from most engineers I have encountered.
@@ -53,6 +53,6 @@ detail if that would be useful.
 
 Sincerely,
 
-**[Charan Full Name]**  
-[Job Title], Apple Inc.  
+**[Charan Nama Arunkumar]**  
+[Senior Software Engineer], Apple Inc.  
 [charan@email.com]  

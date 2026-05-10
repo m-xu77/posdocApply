@@ -25,7 +25,11 @@
       "Bash(grep -A 5 \"author = {Zhang, Xiulan\" /Users/monicaxu/projects/OpenPaper/papers/Zhanglaoshi/Zhanglaoshi.bib)",
       "Bash(python3 -c ' *)",
       "Bash(pandoc recommendation_letter_zhang.md -o recommendation_letter_zhang.pdf --pdf-engine=/Library/TeX/texbin/pdflatex -V geometry:margin=1in -V fontsize=11pt)",
-      "Bash(pandoc recommendation_letter_zhang.md -o recommendation_letter_zhang.docx)"
+      "Bash(pandoc recommendation_letter_zhang.md -o recommendation_letter_zhang.docx)",
+      "Bash(pandoc recommendation_letter_walker.md -o recommendation_letter_walker.pdf --pdf-engine=/Library/TeX/texbin/pdflatex -V geometry:margin=1in -V fontsize=11pt)",
+      "Bash(pandoc recommendation_letter_walker.md -o recommendation_letter_walker.docx)",
+      "Bash(/Library/TeX/texbin/pdflatex -interaction=nonstopmode cv_academic_v2.tex)",
+      "Bash(/Library/TeX/texbin/pdflatex -interaction=nonstopmode cccw_personal_statement.tex)"
     ]
   }
 }
