@@ -1,0 +1,5 @@
+2026-05-31 03:00:40,949 INFO reading /Users/mushroomchoo/projects/opendata/posdocApplyResearch/projects/planB_household_link/data/interim/events_geo.parquet
+2026-05-31 03:00:41,047 INFO rows: 30642
+2026-05-31 03:00:41,059 INFO geo-resolved rows: 15139
+2026-05-31 03:00:42,302 INFO wrote /Users/mushroomchoo/projects/opendata/posdocApplyResearch/projects/planB_household_link/data/processed/province_ecology_panel.parquet (434 rows)
+2026-05-31 03:00:42,333 INFO wrote summary table

@@ -1,0 +1,13 @@
+{
+  "meta": {
+    "version": "0.0.0",
+    "built_at": "2026-05-31T00:00:00Z",
+    "n_source_events": 0,
+    "model": "placeholder",
+    "model_version": "placeholder",
+    "prompt_hash": "placeholder",
+    "seed": 20260531,
+    "notes": "Schema-conformant placeholder. Populated by 03_pipeline/frame_extraction/build_dictionary.py when run against output_v3/research_enhanced.db."
+  },
+  "frames": []
+}

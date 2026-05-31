@@ -1,0 +1,40 @@
+# Data — never committed
+02_data/raw/**
+02_data/processed/**
+02_data/metadata/*.parquet
+02_data/annotation/coder_*.csv
+02_data/annotation/adjudicated.csv
+
+# Frame-extraction outputs
+04_analysis/*.parquet
+05_output/figures/*.pdf
+05_output/figures/*.png
+
+# Notebook checkpoints
+**/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+.venv*/
+.uv/
+*.egg-info/
+
+# System
+.DS_Store
+.idea/
+
+# Local env / secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+**/*.log
+02_data/raw/retrieval_log.jsonl
+
+# Large model artifacts
+*.gguf
+*.safetensors

@@ -1,0 +1,68 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "DomesticFrameDictionary",
+  "description": "Frame dictionary derived from the 25,358 domestic anti-poverty action events (output_v3.action_events). Each frame is a (actor_type x action_type x entry_mechanism) cell with a Snow-Benford diagnostic+prognostic articulation and signature/contrast phrases.",
+  "type": "object",
+  "required": ["meta", "frames"],
+  "properties": {
+    "meta": {
+      "type": "object",
+      "required": ["version", "built_at", "n_source_events", "model", "prompt_hash"],
+      "properties": {
+        "version": {"type": "string", "description": "semver"},
+        "built_at": {"type": "string", "format": "date-time"},
+        "n_source_events": {"type": "integer"},
+        "model": {"type": "string"},
+        "model_version": {"type": "string"},
+        "prompt_hash": {"type": "string"},
+        "seed": {"type": "integer"},
+        "notes": {"type": "string"}
+      }
+    },
+    "frames": {
+      "type": "array",
+      "items": {"$ref": "#/$defs/frame"}
+    }
+  },
+  "$defs": {
+    "frame": {
+      "type": "object",
+      "required": [
+        "frame_id",
+        "actor_type",
+        "action_type",
+        "entry_mechanism",
+        "label_zh",
+        "label_en",
+        "diagnostic_zh",
+        "prognostic_zh",
+        "signature_phrases_zh",
+        "contrast_phrases_zh",
+        "n_source_events",
+        "is_governance_frame",
+        "is_infrastructure_frame"
+      ],
+      "properties": {
+        "frame_id": {"type": "string", "description": "Stable slug, e.g., 'dingdian_bangfu_central_party'"},
+        "actor_type": {"type": "string", "description": "One of the 17 organization types from output_v3"},
+        "action_type": {"type": "string", "description": "One of the 11 action_types"},
+        "entry_mechanism": {"type": "string", "description": "One of the 7 entry_mechanisms"},
+        "label_zh": {"type": "string"},
+        "label_en": {"type": "string"},
+        "diagnostic_zh": {"type": "string", "description": "Snow-Benford diagnostic: what problem this frame names"},
+        "diagnostic_en": {"type": "string"},
+        "prognostic_zh": {"type": "string", "description": "Snow-Benford prognostic: what solution this frame proposes"},
+        "prognostic_en": {"type": "string"},
+        "signature_phrases_zh": {"type": "array", "items": {"type": "string"}, "minItems": 5, "maxItems": 20},
+        "signature_phrases_en": {"type": "array", "items": {"type": "string"}},
+        "contrast_phrases_zh": {"type": "array", "items": {"type": "string"}, "minItems": 2, "maxItems": 10},
+        "contrast_phrases_en": {"type": "array", "items": {"type": "string"}},
+        "n_source_events": {"type": "integer", "minimum": 1},
+        "is_governance_frame": {"type": "boolean", "description": "True if dominated by policy_design/supervision/mobilization/training/evaluation"},
+        "is_infrastructure_frame": {"type": "boolean", "description": "True if dominated by project_construction/asset_transfer/financing"},
+        "manual_reviewed": {"type": "boolean", "default": false},
+        "merge_candidates": {"type": "array", "items": {"type": "string"}, "description": "Other frame_ids flagged for potential merge by embedding similarity"}
+      }
+    }
+  }
+}

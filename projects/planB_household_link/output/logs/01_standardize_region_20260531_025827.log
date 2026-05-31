@@ -1,0 +1,11 @@
+2026-05-31 02:58:27,653 INFO log file: /Users/mushroomchoo/projects/opendata/posdocApplyResearch/projects/planB_household_link/output/logs/01_standardize_region_20260531_025827.log
+2026-05-31 02:58:27,654 INFO loading events from /Users/mushroomchoo/projects/opendata/output_v3/research.db
+2026-05-31 02:58:27,769 INFO loaded 25358 events
+2026-05-31 02:58:27,985 INFO input events: 25358
+2026-05-31 02:58:27,985 INFO long-format rows: 30642
+2026-05-31 02:58:27,987 INFO rows with province_code: 15139
+2026-05-31 02:58:27,987 INFO rows without resolvable region: 15503
+2026-05-31 02:58:27,987 INFO unresolved tokens (distinct): 0
+2026-05-31 02:58:28,833 INFO wrote /Users/mushroomchoo/projects/opendata/posdocApplyResearch/projects/planB_household_link/data/interim/events_geo.parquet (30642 rows)
+2026-05-31 02:58:28,834 INFO wrote /Users/mushroomchoo/projects/opendata/posdocApplyResearch/projects/planB_household_link/data/interim/events_unresolved.parquet (0 rows)
+2026-05-31 02:58:28,877 INFO wrote /Users/mushroomchoo/projects/opendata/posdocApplyResearch/projects/planB_household_link/output/tables/01_region_coverage.md

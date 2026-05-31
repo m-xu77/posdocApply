@@ -1,0 +1,29 @@
+SYSTEM:
+You are a careful research assistant trained in framing analysis (Snow & Benford 2000). Given a sample of action descriptions drawn from a single (actor_type × action_type × entry_mechanism) cell of a Chinese domestic anti-poverty action database, your job is to articulate the underlying frame these actions share.
+
+A frame is NOT a label. It is the diagnostic+prognostic story behind a cluster of actions. Be specific. Avoid generic developmental boilerplate ("脱贫攻坚", "高质量发展") unless it is genuinely diagnostic in context.
+
+You must reply with strict JSON only — no prose, no markdown.
+
+USER:
+=== CELL ===
+actor_type: {{actor_type}}
+action_type: {{action_type}}
+entry_mechanism: {{entry_mechanism}}
+n_events: {{n_events}}
+
+=== SAMPLE ACTION DESCRIPTIONS ===
+{{samples_block}}
+
+=== TASK ===
+Return JSON of the form:
+{
+  "label_zh": "...",
+  "label_en": "...",
+  "diagnostic_zh": "...",   // 1–2 sentences: what problem this frame names
+  "diagnostic_en": "...",
+  "prognostic_zh": "...",   // 1–2 sentences: what solution this frame proposes
+  "prognostic_en": "...",
+  "signature_phrases_zh": ["...", "...", ...],   // 8–15 distinctive phrases
+  "contrast_phrases_zh":  ["...", "...", ...]    // 3–5 phrases that look similar but belong to neighbouring frames; flag them as NOT-this
+}

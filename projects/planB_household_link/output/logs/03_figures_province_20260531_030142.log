@@ -1,0 +1,5 @@
+2026-05-31 03:01:42,955 INFO CJK font: Hiragino Sans GB
+2026-05-31 03:01:43,052 INFO loaded panel: (434, 23)
+2026-05-31 03:01:44,585 INFO wrote fig01_shannon_heatmap
+2026-05-31 03:01:44,786 INFO wrote fig02_central_local_timeseries
+2026-05-31 03:01:44,921 INFO wrote fig03_event_volume_by_group
